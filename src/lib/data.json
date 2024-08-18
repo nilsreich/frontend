@@ -9,116 +9,116 @@
       "solution": "204702"
     },
     {
-      "question": "9999999 + 111 + 22222222 = ",
-      "solution": "32222332"
+      "question": "234,3 + 0,111 + 549 = ",
+      "solution": "783,411"
     },
     {
       "question": "3141,59 + 27,1828 = ",
       "solution": "3168,7728"
     },
     {
-      "question": "0,123456 + 9,87 + 0,0000044 = ",
-      "solution": "9,9934604"
+      "question": "0,123456 + 9,87 + 0,0300044 = ",
+      "solution": "10,0234604"
     },
     {
-      "question": "1,23456789 + 9,8 + 0,00000001 = ",
-      "solution": "11,03456790"
+      "question": "1,23556789 + 9,098 + 0,00000001 = ",
+      "solution": "10,3335679"
     },
     {
-      "question": "1000000000 + 20000000 + 3000 = ",
-      "solution": "1020003000"
+      "question": "43,22 + 30,431 + 300,30 = ",
+      "solution": "373,951"
     },
     {
-      "question": "9999999999 + 1111 + 2222 = ",
-      "solution": "10000003332"
+      "question": "784,3 + 1,111 + 22,98 = ",
+      "solution": "808,391"
     },
     {
-      "question": "5432109876 + 12345 + 6789012 = ",
-      "solution": "5438911233"
+      "question": "6494,34 + 123,45 + 678,901 = ",
+      "solution": "7296,691"
     },
     {
-      "question": "0,00000001 + 0,1 + 0,02 = ",
-      "solution": "0,12000001"
+      "question": "0,000400001 + 0,1 + 0,02 = ",
+      "solution": "0,120400001"
     },
     {
-      "question": "0,00000001 + 1,1 + 0,009 = ",
-      "solution": "1,10900001"
+      "question": "0,000499001 + 1,991 + 0,090909 = ",
+      "solution": "2,082408001"
     },
     {
-      "question": "0,12345678 + 9,9 + 0,00000001 = ",
-      "solution": "10,02345679"
+      "question": "0,9854 + 9,09 + 1,943 = ",
+      "solution": "11,0184"
     },
     {
-      "question": "123456 + 7890 + 12 + 3456789 = ",
-      "solution": "3588147"
+      "question": "123,456 + 78,90 + 1,2 + 3456,789 = ",
+      "solution": "4659,345"
     },
     {
-      "question": "1111 + 22 + 333 + 4444 + 55555 = ",
-      "solution": "61465"
+      "question": "111,1 + 0,22 + 4,333 + 9,4444 + 5,55555 = ",
+      "solution": "130,65295"
     },
     {
-      "question": "1,11111 + 2,2 + 3,333 + 0,00444 = ",
-      "solution": "6,64855"
+      "question": "1,11431 + 24,24 + 33,333 + 90,00444 = ",
+      "solution": "148,69175"
     },
     {
-      "question": "987654321 + 1234 + 56789 = ",
-      "solution": "987712344"
+      "question": "54,54 + 12,34 + 56,789 = ",
+      "solution": "123,669"
     },
     {
-      "question": "8765432 + 12345 + 6 = ",
-      "solution": "8777783"
+      "question": "87,65432 + 123,45 + 0,6 = ",
+      "solution": "211,70432"
     },
     {
-      "question": "299,99999 + 700 + 0,1 = ",
-      "solution": "1000,09999"
+      "question": "299,99999 + 70,70 + 0,107 = ",
+      "solution": "370,80799"
     },
     {
       "question": "0,987654321 + 0,01 + 1,1 = ",
       "solution": "2,097654321"
     },
     {
-      "question": "9876543210 + 12345 + 6789000 = ",
-      "solution": "9883344555"
+      "question": "54,94 + 123,45 + 67,89000 = ",
+      "solution": "246,380"
     },
     {
-      "question": "0,00000099 + 0,1 + 0,02 = ",
-      "solution": "0,12000099"
+      "question": "0,07867 + 0,761 + 0,6782 = ",
+      "solution": "1,51787"
     },
     {
-      "question": "1000 + 200 + 30 + 4 + 50000 + 6 + 70000 = ",
-      "solution": "121240"
+      "question": "6545 + 234 + 87 + 4 + 765 + 6 + 9386 = ",
+      "solution": "17327"
     },
     {
-      "question": "1,23456789 + 2,3 + 0,045 = ",
-      "solution": "3,57956789"
+      "question": "1,23456 + 2,3 + 0,045 = ",
+      "solution": "3,57956"
     },
     {
-      "question": "99999 + 888 + 7 + 66666 = ",
-      "solution": "167560"
+      "question": "999,99 + 88,8 + 7 + 666,66 = ",
+      "solution": "1762,45"
     },
     {
       "question": "0,1111 + 1 + 0,00011 = ",
       "solution": "1,11121"
     },
     {
-      "question": "54321098765 + 1234 + 5678900 = ",
-      "solution": "54326778899"
+      "question": "543215 + 1234 + 5678900 = ",
+      "solution": "6223350"
     },
     {
-      "question": "7,777777777 + 0,1 + 2,22 = ",
-      "solution": "10,097777777"
+      "question": "7,7777 + 0,19 + 2,2902 = ",
+      "solution": "10,2579"
     },
     {
-      "question": "1000000000 + 20000000 + 3000000 + 40000 = ",
-      "solution": "1023040000"
+      "question": "5445 + 6534 + 8765 + 233 = ",
+      "solution": "20977"
     },
     {
-      "question": "0,0005555555 + 0,1 + 0,02 = ",
-      "solution": "0,1205555555"
+      "question": "0,54 + 0,14 + 0,2302 = ",
+      "solution": "0,9102"
     },
     {
-      "question": "123456789 + 87654 + 3210 = ",
-      "solution": "123547653"
+      "question": "5423,2 + 876,54 + 3210,909 = ",
+      "solution": "9509,649"
     }
   ],
   "grundrechenarten/subtraktion": [
@@ -131,116 +131,116 @@
       "solution": "76544"
     },
     {
-      "question": "1000000 - 999999 = ",
-      "solution": "1"
+      "question": "1000000 - 4323 = ",
+      "solution": "996677"
     },
     {
       "question": "3141,59 - 27,1828 = ",
       "solution": "3114,4072"
     },
     {
-      "question": "10,000000 - 0,123456 = ",
-      "solution": "9,876544"
+      "question": "10,4323 - 0,123456 = ",
+      "solution": "10,308844"
     },
     {
-      "question": "11,00000000 - 1,23456789 = ",
-      "solution": "9,76543211"
+      "question": "11,1234 - 1,23456789 = ",
+      "solution": "9,88883211"
     },
     {
-      "question": "2000000000 - 1999999999 = ",
-      "solution": "1"
+      "question": "32192312 - 12332 = ",
+      "solution": "32179980"
     },
     {
-      "question": "10000000000 - 1 = ",
-      "solution": "9999999999"
+      "question": "98743 - 11234 = ",
+      "solution": "87509"
     },
     {
       "question": "5432109876 - 1234567890 = ",
       "solution": "4197541986"
     },
     {
-      "question": "0,10000000 - 0,00000001 = ",
-      "solution": "0,09999999"
+      "question": "0,100003000 - 0,00002001 = ",
+      "solution": "0,09998299"
     },
     {
-      "question": "1,00000000 - 0,00000001 = ",
-      "solution": "0,99999999"
+      "question": "1,323423 - 0,43234 = ",
+      "solution": "0,891083"
     },
     {
-      "question": "1,00000000 - 0,12345678 = ",
-      "solution": "0,87654322"
+      "question": "1,43212 - 0,4231287 = ",
+      "solution": "1,0089913"
     },
     {
       "question": "987654 - 123456 = ",
       "solution": "864198"
     },
     {
-      "question": "100000 - 1111 - 2222 = ",
-      "solution": "96667"
+      "question": "100000 - 4323 - 1232 = ",
+      "solution": "94645"
     },
     {
-      "question": "10,00000 - 1,11111 - 2,22222 = ",
-      "solution": "6,66667"
+      "question": "10,5434 - 1,34 - 2,876 = ",
+      "solution": "6,3274"
     },
     {
-      "question": "1000000000 - 987654321 = ",
-      "solution": "12345679"
+      "question": "755677 - 6556 = ",
+      "solution": "749121"
     },
     {
-      "question": "9000000 - 8765432 = ",
-      "solution": "234568"
+      "question": "91233 - 87632 = ",
+      "solution": "3601"
     },
     {
-      "question": "1000,00000 - 299,99999 = ",
-      "solution": "700,00001"
+      "question": "1000,43340 - 299,99999 = ",
+      "solution": "700,43341"
     },
     {
-      "question": "1,000000000 - 0,987654321 = ",
-      "solution": "0,012345679"
+      "question": "1,0543 - 0,987654321 = ",
+      "solution": "0,066645679"
     },
     {
-      "question": "11111111111 - 1234567890 = ",
-      "solution": "9876543221"
+      "question": "1233312 - 129292 = ",
+      "solution": "1104020"
     },
     {
-      "question": "0,00001000 - 0,00000999 = ",
-      "solution": "0,00000001"
+      "question": "0,03001001 - 0,00100999 = ",
+      "solution": "0,02800002"
     },
     {
-      "question": "100000 - 1234 - 56789 = ",
-      "solution": "41977"
+      "question": "80987 - 1234 - 56789 = ",
+      "solution": "22964"
     },
     {
-      "question": "9,87654321 - 1,23456789 = ",
-      "solution": "8,64197532"
+      "question": "9,8765 - 1,23456789 = ",
+      "solution": "8,64193211"
     },
     {
-      "question": "100000 - 99 - 999 - 9999 = ",
-      "solution": "88903"
+      "question": "100589 - 99 - 999 - 9999 = ",
+      "solution": "90092"
     },
     {
-      "question": "1,0000 - 0,1111 - 0,0001 = ",
-      "solution": "0,8888"
+      "question": "21,432 - 0,1111 - 0,0001 = ",
+      "solution": "21,3208"
     },
     {
-      "question": "98765432100 - 12345678900 = ",
-      "solution": "86419753200"
+      "question": "987654 - 567890 = ",
+      "solution": "419764"
     },
     {
-      "question": "10,000000000 - 0,123456789 = ",
-      "solution": "9,876543211"
+      "question": "10,0087600 - 0,123456789 = ",
+      "solution": "9,885303211"
     },
     {
-      "question": "5000000000 - 1 - 2 - 3 - 4 - 5 = ",
-      "solution": "4999999985"
+      "question": "5054003 - 13 - 22 - 38 - 46 - 51 = ",
+      "solution": "5053833"
     },
     {
-      "question": "0,1000000000 - 0,0000000001 = ",
-      "solution": "0,0999999999"
+      "question": "0,432300 - 0,0000000001 = ",
+      "solution": "0,4322999999"
     },
     {
-      "question": "1234567890 - 987654321 = ",
-      "solution": "246913569"
+      "question": "1230 - 987 = ",
+      "solution": "243"
     }
   ],
   "grundrechenarten/multiplikation": [
@@ -269,12 +269,12 @@
       "solution": "0,9801"
     },
     {
-      "question": "1000000 × 2 = ",
-      "solution": "2000000"
+      "question": "112 × 24 = ",
+      "solution": "2688"
     },
     {
-      "question": "9999 × 9999 = ",
-      "solution": "99980001"
+      "question": "9932 × 4323 = ",
+      "solution": "42905136"
     },
     {
       "question": "12345 × 67890 = ",
@@ -321,8 +321,8 @@
       "solution": "1,111111101"
     },
     {
-      "question": "1000000000 × 2 = ",
-      "solution": "2000000000"
+      "question": "1321 × 78 = ",
+      "solution": "102918"
     },
     {
       "question": "0,00001 × 100000 = ",
@@ -443,36 +443,36 @@
       "solution": "0,111111... (periodisch)"
     },
     {
-      "question": "2000000000 ÷ 1000000 = ",
-      "solution": "2000"
+      "question": "32123 ÷ 11 = ",
+      "solution": "2920,272727..."
     },
     {
       "question": "1 ÷ 100000 = ",
       "solution": "0,00001"
     },
     {
-      "question": "44253432 ÷ 789 = ",
-      "solution": "56088"
+      "question": "44253432 ÷ 8 = ",
+      "solution": "5556679"
     },
     {
-      "question": "44,253432 ÷ 7,89 = ",
-      "solution": "5,608798732..."
+      "question": "44,253432 ÷ 7 = ",
+      "solution": "6,32"
     },
     {
-      "question": "53640432 ÷ 9876 = ",
-      "solution": "5432"
+      "question": "53640432 ÷ 9 = ",
+      "solution": "5960048"
     },
     {
       "question": "0,000001 ÷ 0,001 = ",
       "solution": "0,001"
     },
     {
-      "question": "670592745 ÷ 12345 = ",
-      "solution": "54321"
+      "question": "670592745 ÷ 125 = ",
+      "solution": "5364741"
     },
     {
-      "question": "669,636 ÷ 9,9 = ",
-      "solution": "67,64"
+      "question": "669,636 ÷ 13 = ",
+      "solution": "51,511"
     },
     {
       "question": "1 ÷ 3 ÷ 3 = ",
@@ -483,13 +483,11 @@
       "solution": "2000000"
     },
     {
-      "question": "97406784 ÷ 123456 = ",
-      "solution": "789"
+      "question": "97406784 ÷ 14 = ",
+      "solution": "6957627"
     }
   ],
-  "grundrechenarten/dreisatz":[
-
-  ],
+  "grundrechenarten/dreisatz": [],
   "grundrechenarten/einfacherDreisatz": [
     {
       "question": "3 Äpfel kosten 1,50 €. Wie viel kosten 9 Äpfel?",
@@ -978,176 +976,476 @@
       "solution": "1157 Kunden"
     }
   ],
-  "bruchrechnung/subtraktion": [
-    {
-      "question": "\\frac{5}{6} - \\frac{1}{3} = ",
-      "solution": "\\frac{1}{2}"
-    },
-    {
-      "question": "\\frac{7}{8} - \\frac{3}{4} = ",
-      "solution": "\\frac{1}{8}"
-    },
-    {
-      "question": "\\frac{9}{10} - \\frac{2}{5} = ",
-      "solution": "\\frac{1}{2}"
-    },
-    {
-      "question": "\\frac{11}{12} - \\frac{5}{6} = ",
-      "solution": "\\frac{1}{12}"
-    },
-    {
-      "question": "\\frac{4}{5} - \\frac{3}{10} = ",
-      "solution": "\\frac{1}{2}"
-    },
-    {
-      "question": "\\frac{5}{7} - \\frac{2}{7} = ",
-      "solution": "\\frac{3}{7}"
-    },
-    {
-      "question": "\\frac{8}{9} - \\frac{5}{9} = ",
-      "solution": "\\frac{1}{3}"
-    },
-    {
-      "question": "\\frac{7}{10} - \\frac{3}{5} = ",
-      "solution": "\\frac{1}{10}"
-    },
-    {
-      "question": "\\frac{13}{15} - \\frac{2}{3} = ",
-      "solution": "\\frac{1}{5}"
-    },
-    {
-      "question": "\\frac{11}{14} - \\frac{3}{7} = ",
-      "solution": "\\frac{5}{14}"
-    }
-  ],
-  "bruchrechnung/multiplikation": [
-    {
-      "question": "\\frac{2}{3} \\times \\frac{3}{4} = ",
-      "solution": "\\frac{1}{2}"
-    },
-    {
-      "question": "\\frac{5}{6} \\times \\frac{2}{5} = ",
-      "solution": "\\frac{1}{3}"
-    },
-    {
-      "question": "\\frac{3}{7} \\times \\frac{4}{9} = ",
-      "solution": "\\frac{4}{21}"
-    },
-    {
-      "question": "\\frac{5}{8} \\times \\frac{3}{10} = ",
-      "solution": "\\frac{3}{16}"
-    },
-    {
-      "question": "\\frac{2}{5} \\times \\frac{5}{6} = ",
-      "solution": "\\frac{1}{3}"
-    },
-    {
-      "question": "\\frac{7}{9} \\times \\frac{3}{7} = ",
-      "solution": "\\frac{1}{3}"
-    },
-    {
-      "question": "\\frac{4}{11} \\times \\frac{5}{8} = ",
-      "solution": "\\frac{5}{22}"
-    },
-    {
-      "question": "\\frac{3}{5} \\times \\frac{2}{9} = ",
-      "solution": "\\frac{2}{15}"
-    },
-    {
-      "question": "\\frac{5}{12} \\times \\frac{6}{7} = ",
-      "solution": "\\frac{5}{14}"
-    },
-    {
-      "question": "\\frac{8}{15} \\times \\frac{5}{16} = ",
-      "solution": "\\frac{1}{6}"
-    },
-    {
-      "question": "\\frac{3}{8} \\times \\frac{4}{5} = ",
-      "solution": "\\frac{3}{10}"
-    },
-    {
-      "question": "\\frac{7}{11} \\times \\frac{2}{7} = ",
-      "solution": "\\frac{2}{11}"
-    },
-    {
-      "question": "\\frac{5}{9} \\times \\frac{3}{5} = ",
-      "solution": "\\frac{1}{3}"
-    },
-    {
-      "question": "\\frac{4}{7} \\times \\frac{7}{12} = ",
-      "solution": "\\frac{1}{3}"
-    },
-    {
-      "question": "\\frac{2}{3} \\times \\frac{9}{10} = ",
-      "solution": "\\frac{3}{5}"
-    },
-    {
-      "question": "\\frac{5}{13} \\times \\frac{13}{15} = ",
-      "solution": "\\frac{1}{3}"
-    },
-    {
-      "question": "\\frac{3}{4} \\times \\frac{8}{9} = ",
-      "solution": "\\frac{2}{3}"
-    },
-    {
-      "question": "\\frac{7}{16} \\times \\frac{4}{7} = ",
-      "solution": "\\frac{1}{4}"
-    },
-    {
-      "question": "\\frac{5}{11} \\times \\frac{11}{20} = ",
-      "solution": "\\frac{1}{4}"
-    },
-    {
-      "question": "\\frac{9}{14} \\times \\frac{2}{9} = ",
-      "solution": "\\frac{1}{7}"
-    },
-    {
-      "question": "\\frac{4}{15} \\times \\frac{5}{8} = ",
-      "solution": "\\frac{1}{6}"
-    }
-  ],
-  "bruchrechnung/division": [
-    {
-      "question": "\\frac{3}{4} \\div \\frac{1}{2} = ",
-      "solution": "\\frac{3}{2}"
-    },
-    {
-      "question": "\\frac{5}{6} \\div \\frac{2}{3} = ",
-      "solution": "\\frac{5}{4}"
-    },
-    {
-      "question": "\\frac{7}{8} \\div \\frac{3}{4} = ",
-      "solution": "\\frac{7}{6}"
-    },
-    {
-      "question": "\\frac{9}{10} \\div \\frac{3}{5} = ",
-      "solution": "\\frac{3}{2}"
-    },
-    {
-      "question": "\\frac{2}{3} \\div \\frac{1}{6} = ",
-      "solution": "4"
-    },
-    {
-      "question": "\\frac{5}{7} \\div \\frac{1}{3} = ",
-      "solution": "\\frac{15}{7}"
-    },
-    {
-      "question": "\\frac{4}{5} \\div \\frac{2}{5} = ",
-      "solution": "2"
-    },
-    {
-      "question": "\\frac{11}{12} \\div \\frac{5}{6} = ",
-      "solution": "\\frac{11}{10}"
-    },
-    {
-      "question": "\\frac{3}{8} \\div \\frac{1}{4} = ",
-      "solution": "\\frac{3}{2}"
-    },
-    {
-      "question": "\\frac{7}{9} \\div \\frac{1}{3} = ",
-      "solution": "\\frac{7}{3}"
-    }
-  ],
+    "bruchrechnung/addition": [
+      {
+        "question": "\\frac{1}{3} + \\frac{1}{4} = ",
+        "solution": "\\frac{7}{12}"
+      },
+      {
+        "question": "\\frac{2}{5} + \\frac{3}{7} = ",
+        "solution": "\\frac{29}{35}"
+      },
+      {
+        "question": "\\frac{3}{8} + \\frac{5}{12} = ",
+        "solution": "\\frac{11}{24}"
+      },
+      {
+        "question": "\\frac{4}{9} + \\frac{2}{3} = ",
+        "solution": "\\frac{10}{9}"
+      },
+      {
+        "question": "\\frac{5}{6} + \\frac{1}{3} = ",
+        "solution": "\\frac{7}{6}"
+      },
+      {
+        "question": "\\frac{7}{10} + \\frac{3}{5} = ",
+        "solution": "\\frac{13}{10}"
+      },
+      {
+        "question": "\\frac{8}{15} + \\frac{4}{9} = ",
+        "solution": "\\frac{52}{45}"
+      },
+      {
+        "question": "\\frac{11}{12} + \\frac{5}{8} = ",
+        "solution": "\\frac{43}{24}"
+      },
+      {
+        "question": "\\frac{13}{20} + \\frac{7}{15} = ",
+        "solution": "\\frac{89}{60}"
+      },
+      {
+        "question": "\\frac{17}{24} + \\frac{5}{18} = ",
+        "solution": "\\frac{61}{72}"
+      },
+      {
+        "question": "1\\frac{1}{4} + 2\\frac{1}{3} = ",
+        "solution": "3\\frac{7}{12}"
+      },
+      {
+        "question": "2\\frac{1}{5} + 1\\frac{3}{4} = ",
+        "solution": "3\\frac{19}{20}"
+      },
+      {
+        "question": "3\\frac{1}{3} + 2\\frac{1}{6} = ",
+        "solution": "5\\frac{1}{2}"
+      },
+      {
+        "question": "4\\frac{1}{2} + 3\\frac{3}{4} = ",
+        "solution": "8\\frac{1}{4}"
+      },
+      {
+        "question": "5\\frac{2}{3} + 2\\frac{5}{6} = ",
+        "solution": "8\\frac{1}{2}"
+      },
+      {
+        "question": "\\frac{3}{7} + \\frac{1}{4} + \\frac{2}{5} = ",
+        "solution": "\\frac{163}{140}"
+      },
+      {
+        "question": "\\frac{5}{8} + \\frac{1}{3} + \\frac{3}{10} = ",
+        "solution": "\\frac{67}{40}"
+      },
+      {
+        "question": "\\frac{7}{9} + \\frac{2}{5} + \\frac{1}{6} = ",
+        "solution": "\\frac{103}{90}"
+      },
+      {
+        "question": "\\frac{11}{12} + \\frac{3}{8} + \\frac{5}{6} = ",
+        "solution": "2\\frac{1}{8}"
+      },
+      {
+        "question": "\\frac{13}{15} + \\frac{4}{9} + \\frac{2}{3} = ",
+        "solution": "2\\frac{1}{45}"
+      },
+      {
+        "question": "2\\frac{1}{3} + 1\\frac{1}{4} + \\frac{5}{6} = ",
+        "solution": "4\\frac{3}{4}"
+      },
+      {
+        "question": "3\\frac{1}{5} + 2\\frac{1}{2} + 1\\frac{3}{4} = ",
+        "solution": "7\\frac{9}{20}"
+      },
+      {
+        "question": "4\\frac{2}{7} + 3\\frac{1}{3} + 2\\frac{1}{6} = ",
+        "solution": "9\\frac{47}{42}"
+      },
+      {
+        "question": "5\\frac{3}{8} + 2\\frac{2}{5} + 1\\frac{1}{3} = ",
+        "solution": "9\\frac{7}{120}"
+      },
+      {
+        "question": "6\\frac{1}{2} + 3\\frac{3}{4} + 2\\frac{1}{6} = ",
+        "solution": "12\\frac{5}{12}"
+      },
+      {
+        "question": "\\frac{7}{8} + 1\\frac{2}{3} + \\frac{5}{12} = ",
+        "solution": "3\\frac{1}{24}"
+      },
+      {
+        "question": "1\\frac{1}{3} + \\frac{3}{4} + 2\\frac{1}{6} = ",
+        "solution": "4\\frac{1}{4}"
+      },
+      {
+        "question": "2\\frac{2}{5} + 1\\frac{1}{2} + \\frac{7}{10} = ",
+        "solution": "4\\frac{3}{5}"
+      },
+      {
+        "question": "3\\frac{1}{4} + \\frac{5}{6} + 1\\frac{2}{3} = ",
+        "solution": "5\\frac{3}{4}"
+      },
+      {
+        "question": "4\\frac{1}{6} + 2\\frac{1}{3} + \\frac{5}{12} = ",
+        "solution": "7\\frac{1}{4}"
+      }
+    ],
+    "bruchrechnung/subtraktion": [
+      {
+        "question": "\\frac{5}{7} - \\frac{1}{3} = ",
+        "solution": "\\frac{8}{21}"
+      },
+      {
+        "question": "\\frac{7}{8} - \\frac{3}{5} = ",
+        "solution": "\\frac{11}{40}"
+      },
+      {
+        "question": "\\frac{9}{12} - \\frac{2}{5} = ",
+        "solution": "\\frac{13}{20}"
+      },
+      {
+        "question": "\\frac{11}{13} - \\frac{5}{6} = ",
+        "solution": "\\frac{23}{78}"
+      },
+      {
+        "question": "\\frac{4}{6} - \\frac{3}{10} = ",
+        "solution": "\\frac{1}{3}"
+      },
+      {
+        "question": "\\frac{5}{8} - \\frac{2}{7} = ",
+        "solution": "\\frac{27}{56}"
+      },
+      {
+        "question": "\\frac{8}{11} - \\frac{5}{9} = ",
+        "solution": "\\frac{7}{99}"
+      },
+      {
+        "question": "\\frac{7}{3} - \\frac{3}{5} = ",
+        "solution": "\\frac{26}{15}"
+      },
+      {
+        "question": "\\frac{13}{15} - \\frac{2}{3} = ",
+        "solution": "\\frac{1}{5}"
+      },
+      {
+        "question": "\\frac{11}{14} - \\frac{3}{8} = ",
+        "solution": "\\frac{25}{56}"
+      },
+      {
+        "question": "2\\frac{1}{4} - 1\\frac{3}{8} = ",
+        "solution": "\\frac{7}{8}"
+      },
+      {
+        "question": "3\\frac{2}{3} - 1\\frac{5}{6} = ",
+        "solution": "1\\frac{5}{6}"
+      },
+      {
+        "question": "5\\frac{3}{5} - 2\\frac{1}{4} = ",
+        "solution": "3\\frac{7}{20}"
+      },
+      {
+        "question": "4\\frac{1}{3} - 1\\frac{2}{5} = ",
+        "solution": "2\\frac{14}{15}"
+      },
+      {
+        "question": "7\\frac{1}{2} - 3\\frac{3}{4} = ",
+        "solution": "3\\frac{3}{4}"
+      },
+      {
+        "question": "\\frac{9}{7} - \\frac{2}{5} - \\frac{1}{3} = ",
+        "solution": "\\frac{47}{105}"
+      },
+      {
+        "question": "\\frac{11}{12} - \\frac{1}{4} - \\frac{1}{6} = ",
+        "solution": "\\frac{1}{3}"
+      },
+      {
+        "question": "\\frac{15}{8} - \\frac{3}{4} - \\frac{5}{6} = ",
+        "solution": "\\frac{1}{24}"
+      },
+      {
+        "question": "2\\frac{1}{3} - \\frac{3}{4} - \\frac{1}{2} = ",
+        "solution": "1\\frac{1}{12}"
+      },
+      {
+        "question": "3\\frac{1}{5} - 1\\frac{1}{4} - \\frac{2}{3} = ",
+        "solution": "1\\frac{19}{60}"
+      },
+      {
+        "question": "4\\frac{2}{7} - 1\\frac{1}{3} - \\frac{5}{6} = ",
+        "solution": "2\\frac{1}{42}"
+      },
+      {
+        "question": "5\\frac{3}{8} - 2\\frac{1}{6} - 1\\frac{1}{4} = ",
+        "solution": "1\\frac{23}{24}"
+      },
+      {
+        "question": "6\\frac{1}{2} - 2\\frac{3}{4} - 1\\frac{5}{8} = ",
+        "solution": "2\\frac{1}{8}"
+      },
+      {
+        "question": "\\frac{17}{9} - \\frac{2}{3} - \\frac{5}{18} = ",
+        "solution": "\\frac{10}{9}"
+      },
+      {
+        "question": "3\\frac{2}{5} - \\frac{7}{10} - 1\\frac{1}{2} = ",
+        "solution": "1\\frac{1}{5}"
+      }
+    ],
+    "bruchrechnung/multiplikation": [
+      {
+        "question": "\\frac{1}{3} \\times \\frac{2}{5} = ",
+        "solution": "\\frac{2}{15}"
+      },
+      {
+        "question": "\\frac{3}{4} \\times \\frac{2}{3} = ",
+        "solution": "\\frac{1}{2}"
+      },
+      {
+        "question": "\\frac{5}{6} \\times \\frac{4}{7} = ",
+        "solution": "\\frac{10}{21}"
+      },
+      {
+        "question": "\\frac{7}{8} \\times \\frac{3}{4} = ",
+        "solution": "\\frac{21}{32}"
+      },
+      {
+        "question": "\\frac{2}{3} \\times \\frac{5}{9} = ",
+        "solution": "\\frac{10}{27}"
+      },
+      {
+        "question": "1\\frac{1}{2} \\times 2\\frac{1}{3} = ",
+        "solution": "3\\frac{1}{2}"
+      },
+      {
+        "question": "2\\frac{1}{4} \\times 1\\frac{1}{3} = ",
+        "solution": "3"
+      },
+      {
+        "question": "3\\frac{1}{3} \\times 2\\frac{1}{2} = ",
+        "solution": "8\\frac{1}{3}"
+      },
+      {
+        "question": "1\\frac{3}{4} \\times 2\\frac{2}{5} = ",
+        "solution": "4\\frac{1}{5}"
+      },
+      {
+        "question": "2\\frac{1}{6} \\times 3\\frac{1}{4} = ",
+        "solution": "7\\frac{1}{24}"
+      },
+      {
+        "question": "\\frac{2}{3} \\times \\frac{3}{4} \\times \\frac{5}{6} = ",
+        "solution": "\\frac{5}{12}"
+      },
+      {
+        "question": "\\frac{1}{2} \\times \\frac{2}{3} \\times \\frac{3}{4} = ",
+        "solution": "\\frac{1}{4}"
+      },
+      {
+        "question": "\\frac{3}{5} \\times \\frac{5}{7} \\times \\frac{7}{9} = ",
+        "solution": "\\frac{1}{3}"
+      },
+      {
+        "question": "1\\frac{1}{2} \\times \\frac{2}{3} \\times 3 = ",
+        "solution": "3"
+      },
+      {
+        "question": "2\\frac{1}{4} \\times 1\\frac{1}{3} \\times \\frac{1}{2} = ",
+        "solution": "1\\frac{1}{2}"
+      },
+      {
+        "question": "\\frac{4}{9} \\times \\frac{3}{5} = ",
+        "solution": "\\frac{4}{15}"
+      },
+      {
+        "question": "\\frac{5}{8} \\times \\frac{2}{3} = ",
+        "solution": "\\frac{5}{12}"
+      },
+      {
+        "question": "\\frac{7}{10} \\times \\frac{5}{7} = ",
+        "solution": "\\frac{1}{2}"
+      },
+      {
+        "question": "\\frac{11}{12} \\times \\frac{6}{11} = ",
+        "solution": "\\frac{1}{2}"
+      },
+      {
+        "question": "1\\frac{1}{4} \\times 2\\frac{2}{3} = ",
+        "solution": "3\\frac{1}{3}"
+      },
+      {
+        "question": "3\\frac{1}{2} \\times 1\\frac{2}{5} = ",
+        "solution": "4\\frac{9}{10}"
+      },
+      {
+        "question": "2\\frac{3}{4} \\times 1\\frac{1}{6} = ",
+        "solution": "3\\frac{1}{4}"
+      },
+      {
+        "question": "1\\frac{2}{3} \\times 3\\frac{3}{4} = ",
+        "solution": "6\\frac{1}{4}"
+      },
+      {
+        "question": "\\frac{3}{8} \\times \\frac{4}{9} \\times \\frac{3}{5} = ",
+        "solution": "\\frac{1}{10}"
+      },
+      {
+        "question": "\\frac{5}{6} \\times \\frac{2}{5} \\times \\frac{3}{4} = ",
+        "solution": "\\frac{1}{2}"
+      },
+      {
+        "question": "2 \\times 1\\frac{1}{3} \\times \\frac{3}{4} = ",
+        "solution": "2"
+      },
+      {
+        "question": "1\\frac{1}{2} \\times 2 \\times \\frac{2}{3} = ",
+        "solution": "2"
+      },
+      {
+        "question": "3\\frac{1}{4} \\times \\frac{2}{5} \\times 1\\frac{1}{2} = ",
+        "solution": "1\\frac{19}{20}"
+      },
+      {
+        "question": "\\frac{5}{8} \\times 2\\frac{1}{4} = ",
+        "solution": "1\\frac{13}{32}"
+      },
+      {
+        "question": "1\\frac{3}{5} \\times 2\\frac{1}{2} \\times \\frac{1}{3} = ",
+        "solution": "1\\frac{1}{3}"
+      }
+    ],
+    
+      "bruchrechnung/division": [
+        {
+          "question": "\\frac{1}{2} \\div \\frac{1}{4} = ",
+          "solution": "2"
+        },
+        {
+          "question": "\\frac{3}{4} \\div \\frac{1}{2} = ",
+          "solution": "1\\frac{1}{2}"
+        },
+        {
+          "question": "\\frac{5}{6} \\div \\frac{2}{3} = ",
+          "solution": "1\\frac{1}{4}"
+        },
+        {
+          "question": "\\frac{7}{8} \\div \\frac{1}{4} = ",
+          "solution": "3\\frac{1}{2}"
+        },
+        {
+          "question": "\\frac{2}{3} \\div \\frac{5}{9} = ",
+          "solution": "1\\frac{1}{5}"
+        },
+        {
+          "question": "1\\frac{1}{2} \\div \\frac{3}{4} = ",
+          "solution": "2"
+        },
+        {
+          "question": "2\\frac{1}{4} \\div 1\\frac{1}{2} = ",
+          "solution": "1\\frac{1}{2}"
+        },
+        {
+          "question": "3\\frac{1}{3} \\div 1\\frac{1}{6} = ",
+          "solution": "2\\frac{6}{7}"
+        },
+        {
+          "question": "1\\frac{3}{4} \\div \\frac{7}{8} = ",
+          "solution": "2"
+        },
+        {
+          "question": "2\\frac{1}{6} \\div \\frac{2}{3} = ",
+          "solution": "3\\frac{1}{4}"
+        },
+        {
+          "question": "\\frac{2}{3} \\div (\\frac{1}{4} \\times 2) = ",
+          "solution": "1\\frac{1}{3}"
+        },
+        {
+          "question": "1\\frac{1}{2} \\div (\\frac{3}{4} \\div \\frac{1}{2}) = ",
+          "solution": "2"
+        },
+        {
+          "question": "(\\frac{3}{4} \\times 2) \\div \\frac{1}{2} = ",
+          "solution": "3"
+        },
+        {
+          "question": "3 \\div (1\\frac{1}{2} \\times \\frac{2}{3}) = ",
+          "solution": "3"
+        },
+        {
+          "question": "(2\\frac{1}{4} \\div \\frac{3}{4}) \\times \\frac{1}{2} = ",
+          "solution": "1\\frac{1}{2}"
+        },
+        {
+          "question": "\\frac{4}{5} \\div \\frac{2}{3} = ",
+          "solution": "1\\frac{1}{5}"
+        },
+        {
+          "question": "\\frac{9}{10} \\div \\frac{3}{5} = ",
+          "solution": "1\\frac{1}{2}"
+        },
+        {
+          "question": "1\\frac{1}{3} \\div \\frac{2}{3} = ",
+          "solution": "2"
+        },
+        {
+          "question": "2\\frac{1}{2} \\div 1\\frac{1}{4} = ",
+          "solution": "2"
+        },
+        {
+          "question": "\\frac{15}{16} \\div \\frac{5}{8} = ",
+          "solution": "1\\frac{7}{8}"
+        },
+        {
+          "question": "3\\frac{1}{4} \\div 1\\frac{3}{4} = ",
+          "solution": "1\\frac{6}{7}"
+        },
+        {
+          "question": "\\frac{7}{9} \\div \\frac{1}{3} = ",
+          "solution": "2\\frac{1}{3}"
+        },
+        {
+          "question": "2\\frac{2}{3} \\div 2 = ",
+          "solution": "1\\frac{1}{3}"
+        },
+        {
+          "question": "\\frac{5}{6} \\div (\\frac{1}{2} \\times \\frac{3}{4}) = ",
+          "solution": "2\\frac{2}{9}"
+        },
+        {
+          "question": "(2\\frac{1}{4} \\times \\frac{2}{3}) \\div \\frac{1}{2} = ",
+          "solution": "3"
+        },
+        {
+          "question": "1\\frac{1}{5} \\div (\\frac{2}{3} \\div \\frac{4}{5}) = ",
+          "solution": "1\\frac{1}{2}"
+        },
+        {
+          "question": "(3\\frac{1}{3} \\div 1\\frac{1}{6}) \\times \\frac{1}{4} = ",
+          "solution": "\\frac{5}{7}"
+        },
+        {
+          "question": "4 \\div (1\\frac{1}{3} \\times \\frac{3}{4}) = ",
+          "solution": "4"
+        },
+        {
+          "question": "\\frac{8}{9} \\div (\\frac{2}{3} \\times \\frac{3}{4}) = ",
+          "solution": "1\\frac{7}{9}"
+        },
+        {
+          "question": "(2\\frac{1}{2} \\div \\frac{5}{6}) \\times \\frac{1}{3} = ",
+          "solution": "1"
+        }
+      ]
+    ,
   "terme/vereinfachen": [
     {
       "question": "3x + 5x = ",
@@ -1492,10 +1790,6 @@
       "solution": "4^5"
     },
     {
-      "question": "(5^2 + 5^3)^2 = ",
-      "solution": "(5^2 + 5^3)^2"
-    },
-    {
       "question": "(2^4)^3 = ",
       "solution": "2^{12}"
     },
@@ -1510,22 +1804,6 @@
     {
       "question": "(y^2)^3 \\div y^3 = ",
       "solution": "y^3"
-    },
-    {
-      "question": "(a^2 + a^3)^2 = ",
-      "solution": "(a^2 + a^3)^2"
-    },
-    {
-      "question": "(b^3 - b^2)^2 = ",
-      "solution": "(b^3 - b^2)^2"
-    },
-    {
-      "question": "2^3 \\cdot (2^2 + 2^4) = ",
-      "solution": "2^3 \\cdot (2^2 + 2^4)"
-    },
-    {
-      "question": "3^4 \\div (3^2 - 3) = ",
-      "solution": "3^4 \\div (3^2 - 3)"
     },
     {
       "question": "(4^2 \\cdot 4^3)^2 = ",
@@ -1552,18 +1830,6 @@
       "solution": "y^6"
     },
     {
-      "question": "(a^2 + a)^3 = ",
-      "solution": "(a^2 + a)^3"
-    },
-    {
-      "question": "(b^3 - b)^2 = ",
-      "solution": "(b^3 - b)^2"
-    },
-    {
-      "question": "2^4 \\cdot (2^3 + 2^2)^2 = ",
-      "solution": "2^4 \\cdot (2^3 + 2^2)^2"
-    },
-    {
       "question": "3^5 \\div (3^2 \\cdot 3)^2 = ",
       "solution": "3^{-1}"
     },
@@ -1576,12 +1842,44 @@
       "solution": "5^2"
     },
     {
-      "question": "(2^3 + 2^4)^2 - 2^7 = ",
-      "solution": "(2^3 + 2^4)^2 - 2^7"
+      "question": "2^{-3} \\cdot 2^5 = ",
+      "solution": "2^2"
     },
     {
-      "question": "(3^4 - 3^3)^2 + 3^5 = ",
-      "solution": "(3^4 - 3^3)^2 + 3^5"
+      "question": "3^{-2} \\div 3^{-4} = ",
+      "solution": "3^2"
+    },
+    {
+      "question": "(4^{-1})^3 = ",
+      "solution": "4^{-3}"
+    },
+    {
+      "question": "5^{-2} \\cdot 5^{-3} = ",
+      "solution": "5^{-5}"
+    },
+    {
+      "question": "(2^{-3})^{-2} = ",
+      "solution": "2^6"
+    },
+    {
+      "question": "x^{-4} \\cdot (x^3)^{-2} = ",
+      "solution": "x^{-10}"
+    },
+    {
+      "question": "(y^{-2})^3 \\div y^{-3} = ",
+      "solution": "y^{-3}"
+    },
+    {
+      "question": "3^{-5} \\div (3^{-2} \\cdot 3)^2 = ",
+      "solution": "3^{-7}"
+    },
+    {
+      "question": "(4^{-3})^2 \\cdot 4^{-2} = ",
+      "solution": "4^{-8}"
+    },
+    {
+      "question": "(5^{-2})^{-3} \\div 5^{-4} = ",
+      "solution": "5^2"
     }
   ]
 }

@@ -22,13 +22,13 @@ const { frontmatter,headings } = Astro.props;
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.4/dist/katex.min.css">
   </head>
   <body class="bg-slate-50">
-    <div class="mx-auto max-w-7xl  font-sans font-light flex flex-col md:flex-row">
+    <div class="mx-auto max-w-7xl  font-sans  flex flex-col md:flex-row">
       <Sidebar client:load />
-      <main class="prose lg:prose-lg prose-headings:font-light p-4 w-full">
+      <main class="prose lg:prose-lg p-4 w-full">
         <h1>{frontmatter.title}</h1>
           <div class="flex flex-col gap-2 ">
             {headings.filter(heading => heading.depth === 2).map((heading) => (
-                <a href={`#${heading.slug}`} class="font-light">
+                <a href={`#${heading.slug}`} >
                   {heading.text}
                 </a>
             ))}
