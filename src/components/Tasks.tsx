@@ -12,18 +12,34 @@ import {
 } from "@/components/ui/dialog";
 
 import Videofile from "@/videos/addition.mp4";
-
-// Importieren Sie die JSON-Daten direkt
+// Import the JSON data directly
 import mathTasksData from "../lib/data.json";
 
-const MathTasks = ({ path }: { path: string }) => {
+// Define the structure of a task
+interface Task {
+  question: string;
+  solution: string;
+}
+
+// Define the structure of mathTasksData
+type MathTasksData = {
+  [key: string]: Task[];
+};
+
+// Type assertion for mathTasksData
+const typedMathTasksData = mathTasksData as MathTasksData;
+
+// Use keyof to create a union type of all valid paths
+type ValidPath = keyof typeof mathTasksData;
+
+const MathTasks = ({ path }: { path: ValidPath }) => {
   const [showSolutions, setShowSolutions] = useState(false);
 
   const categoryTasks = useMemo(() => {
-    return mathTasksData[path] || [];
+    return typedMathTasksData[path] || [];
   }, [path]);
 
-  const [tasks, setTasks] = useState([]);
+  const [tasks, setTasks] = useState<Task[]>([]);
 
   const loadTasks = () => {
     setTasks([...categoryTasks].sort(() => Math.random() - 0.5).slice(0, 10));
@@ -34,8 +50,8 @@ const MathTasks = ({ path }: { path: string }) => {
     loadTasks();
   }, [categoryTasks]);
 
-  const renderContent = (content) => {
-    const mathPaths = [
+  const renderContent = (content: string) => {
+    const mathPaths: ValidPath[] = [
       'grundrechenarten/einfacherDreisatz',
       'grundrechenarten/verschachtelterDreisatz',
       'grundrechenarten/umgekehrterDreisatz',
@@ -55,6 +71,7 @@ const MathTasks = ({ path }: { path: string }) => {
       />
     );
   };
+
 
   return (
     <div className="text-slate-700">
