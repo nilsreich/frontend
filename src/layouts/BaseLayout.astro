@@ -1,0 +1,42 @@
+---
+import type { MarkdownLayoutProps } from 'astro';
+import { Sidebar } from '../components/Sidebar';
+import '@/styles/globals.css'
+
+type Props = MarkdownLayoutProps<{
+  title: string;
+  author: string;
+  date: string;
+}>;
+
+const { frontmatter,headings } = Astro.props;
+---
+<html>
+  <head>
+    <title>{frontmatter.title}</title>
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width" />
+    <meta charset="UTF-8" />
+    <meta name="description" content="Astro description" />
+    <meta name="generator" content={Astro.generator} />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.4/dist/katex.min.css">
+  </head>
+  <body class="bg-slate-50">
+    <div class="mx-auto max-w-7xl  font-sans font-light flex flex-col md:flex-row">
+      <Sidebar client:load />
+      <main class="prose lg:prose-lg prose-headings:font-light p-4 w-full">
+        <h1>{frontmatter.title}</h1>
+          <div class="flex flex-col gap-2 ">
+            {headings.filter(heading => heading.depth === 2).map((heading) => (
+                <a href={`#${heading.slug}`} class="font-light">
+                  {heading.text}
+                </a>
+            ))}
+          </div>        
+        <hr />
+        <slot />
+      </main>
+    </div>
+    
+  </body>
+</html>

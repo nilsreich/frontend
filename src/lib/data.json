@@ -1,0 +1,1587 @@
+{
+  "grundrechenarten/addition": [
+    {
+      "question": "78934 + 5678 = ",
+      "solution": "84612"
+    },
+    {
+      "question": "123456 + 78901 + 2345 = ",
+      "solution": "204702"
+    },
+    {
+      "question": "9999999 + 111 + 22222222 = ",
+      "solution": "32222332"
+    },
+    {
+      "question": "3141,59 + 27,1828 = ",
+      "solution": "3168,7728"
+    },
+    {
+      "question": "0,123456 + 9,87 + 0,0000044 = ",
+      "solution": "9,9934604"
+    },
+    {
+      "question": "1,23456789 + 9,8 + 0,00000001 = ",
+      "solution": "11,03456790"
+    },
+    {
+      "question": "1000000000 + 20000000 + 3000 = ",
+      "solution": "1020003000"
+    },
+    {
+      "question": "9999999999 + 1111 + 2222 = ",
+      "solution": "10000003332"
+    },
+    {
+      "question": "5432109876 + 12345 + 6789012 = ",
+      "solution": "5438911233"
+    },
+    {
+      "question": "0,00000001 + 0,1 + 0,02 = ",
+      "solution": "0,12000001"
+    },
+    {
+      "question": "0,00000001 + 1,1 + 0,009 = ",
+      "solution": "1,10900001"
+    },
+    {
+      "question": "0,12345678 + 9,9 + 0,00000001 = ",
+      "solution": "10,02345679"
+    },
+    {
+      "question": "123456 + 7890 + 12 + 3456789 = ",
+      "solution": "3588147"
+    },
+    {
+      "question": "1111 + 22 + 333 + 4444 + 55555 = ",
+      "solution": "61465"
+    },
+    {
+      "question": "1,11111 + 2,2 + 3,333 + 0,00444 = ",
+      "solution": "6,64855"
+    },
+    {
+      "question": "987654321 + 1234 + 56789 = ",
+      "solution": "987712344"
+    },
+    {
+      "question": "8765432 + 12345 + 6 = ",
+      "solution": "8777783"
+    },
+    {
+      "question": "299,99999 + 700 + 0,1 = ",
+      "solution": "1000,09999"
+    },
+    {
+      "question": "0,987654321 + 0,01 + 1,1 = ",
+      "solution": "2,097654321"
+    },
+    {
+      "question": "9876543210 + 12345 + 6789000 = ",
+      "solution": "9883344555"
+    },
+    {
+      "question": "0,00000099 + 0,1 + 0,02 = ",
+      "solution": "0,12000099"
+    },
+    {
+      "question": "1000 + 200 + 30 + 4 + 50000 + 6 + 70000 = ",
+      "solution": "121240"
+    },
+    {
+      "question": "1,23456789 + 2,3 + 0,045 = ",
+      "solution": "3,57956789"
+    },
+    {
+      "question": "99999 + 888 + 7 + 66666 = ",
+      "solution": "167560"
+    },
+    {
+      "question": "0,1111 + 1 + 0,00011 = ",
+      "solution": "1,11121"
+    },
+    {
+      "question": "54321098765 + 1234 + 5678900 = ",
+      "solution": "54326778899"
+    },
+    {
+      "question": "7,777777777 + 0,1 + 2,22 = ",
+      "solution": "10,097777777"
+    },
+    {
+      "question": "1000000000 + 20000000 + 3000000 + 40000 = ",
+      "solution": "1023040000"
+    },
+    {
+      "question": "0,0005555555 + 0,1 + 0,02 = ",
+      "solution": "0,1205555555"
+    },
+    {
+      "question": "123456789 + 87654 + 3210 = ",
+      "solution": "123547653"
+    }
+  ],
+  "grundrechenarten/subtraktion": [
+    {
+      "question": "78934 - 5678 = ",
+      "solution": "73256"
+    },
+    {
+      "question": "100000 - 23456 = ",
+      "solution": "76544"
+    },
+    {
+      "question": "1000000 - 999999 = ",
+      "solution": "1"
+    },
+    {
+      "question": "3141,59 - 27,1828 = ",
+      "solution": "3114,4072"
+    },
+    {
+      "question": "10,000000 - 0,123456 = ",
+      "solution": "9,876544"
+    },
+    {
+      "question": "11,00000000 - 1,23456789 = ",
+      "solution": "9,76543211"
+    },
+    {
+      "question": "2000000000 - 1999999999 = ",
+      "solution": "1"
+    },
+    {
+      "question": "10000000000 - 1 = ",
+      "solution": "9999999999"
+    },
+    {
+      "question": "5432109876 - 1234567890 = ",
+      "solution": "4197541986"
+    },
+    {
+      "question": "0,10000000 - 0,00000001 = ",
+      "solution": "0,09999999"
+    },
+    {
+      "question": "1,00000000 - 0,00000001 = ",
+      "solution": "0,99999999"
+    },
+    {
+      "question": "1,00000000 - 0,12345678 = ",
+      "solution": "0,87654322"
+    },
+    {
+      "question": "987654 - 123456 = ",
+      "solution": "864198"
+    },
+    {
+      "question": "100000 - 1111 - 2222 = ",
+      "solution": "96667"
+    },
+    {
+      "question": "10,00000 - 1,11111 - 2,22222 = ",
+      "solution": "6,66667"
+    },
+    {
+      "question": "1000000000 - 987654321 = ",
+      "solution": "12345679"
+    },
+    {
+      "question": "9000000 - 8765432 = ",
+      "solution": "234568"
+    },
+    {
+      "question": "1000,00000 - 299,99999 = ",
+      "solution": "700,00001"
+    },
+    {
+      "question": "1,000000000 - 0,987654321 = ",
+      "solution": "0,012345679"
+    },
+    {
+      "question": "11111111111 - 1234567890 = ",
+      "solution": "9876543221"
+    },
+    {
+      "question": "0,00001000 - 0,00000999 = ",
+      "solution": "0,00000001"
+    },
+    {
+      "question": "100000 - 1234 - 56789 = ",
+      "solution": "41977"
+    },
+    {
+      "question": "9,87654321 - 1,23456789 = ",
+      "solution": "8,64197532"
+    },
+    {
+      "question": "100000 - 99 - 999 - 9999 = ",
+      "solution": "88903"
+    },
+    {
+      "question": "1,0000 - 0,1111 - 0,0001 = ",
+      "solution": "0,8888"
+    },
+    {
+      "question": "98765432100 - 12345678900 = ",
+      "solution": "86419753200"
+    },
+    {
+      "question": "10,000000000 - 0,123456789 = ",
+      "solution": "9,876543211"
+    },
+    {
+      "question": "5000000000 - 1 - 2 - 3 - 4 - 5 = ",
+      "solution": "4999999985"
+    },
+    {
+      "question": "0,1000000000 - 0,0000000001 = ",
+      "solution": "0,0999999999"
+    },
+    {
+      "question": "1234567890 - 987654321 = ",
+      "solution": "246913569"
+    }
+  ],
+  "grundrechenarten/multiplikation": [
+    {
+      "question": "234 × 56 = ",
+      "solution": "13104"
+    },
+    {
+      "question": "1289 × 34 = ",
+      "solution": "43826"
+    },
+    {
+      "question": "7890 × 123 = ",
+      "solution": "970470"
+    },
+    {
+      "question": "12,34 × 5,6 = ",
+      "solution": "69,104"
+    },
+    {
+      "question": "3,14 × 2,5 = ",
+      "solution": "7,85"
+    },
+    {
+      "question": "0,99 × 0,99 = ",
+      "solution": "0,9801"
+    },
+    {
+      "question": "1000000 × 2 = ",
+      "solution": "2000000"
+    },
+    {
+      "question": "9999 × 9999 = ",
+      "solution": "99980001"
+    },
+    {
+      "question": "12345 × 67890 = ",
+      "solution": "838102050"
+    },
+    {
+      "question": "0,001 × 1000 = ",
+      "solution": "1"
+    },
+    {
+      "question": "0,0001 × 0,0001 = ",
+      "solution": "0,00000001"
+    },
+    {
+      "question": "1,23456 × 7,89 = ",
+      "solution": "9,740676"
+    },
+    {
+      "question": "111 × 111 = ",
+      "solution": "12321"
+    },
+    {
+      "question": "25 × 25 × 25 = ",
+      "solution": "15625"
+    },
+    {
+      "question": "1,1 × 2,2 × 3,3 = ",
+      "solution": "7,986"
+    },
+    {
+      "question": "5678 × 1234 = ",
+      "solution": "7006652"
+    },
+    {
+      "question": "98765 × 43210 = ",
+      "solution": "4267663650"
+    },
+    {
+      "question": "23,45 × 67,89 = ",
+      "solution": "1592,0205"
+    },
+    {
+      "question": "0,123456789 × 9 = ",
+      "solution": "1,111111101"
+    },
+    {
+      "question": "1000000000 × 2 = ",
+      "solution": "2000000000"
+    },
+    {
+      "question": "0,00001 × 100000 = ",
+      "solution": "1"
+    },
+    {
+      "question": "123 × 456 × 789 = ",
+      "solution": "44253432"
+    },
+    {
+      "question": "1,23 × 4,56 × 7,89 = ",
+      "solution": "44,253432"
+    },
+    {
+      "question": "9876 × 5432 = ",
+      "solution": "53640432"
+    },
+    {
+      "question": "0,1 × 0,01 × 0,001 = ",
+      "solution": "0,000001"
+    },
+    {
+      "question": "54321 × 12345 = ",
+      "solution": "670592745"
+    },
+    {
+      "question": "7,7 × 8,8 × 9,9 = ",
+      "solution": "669,636"
+    },
+    {
+      "question": "1000000 × 0,000001 = ",
+      "solution": "1"
+    },
+    {
+      "question": "0,0005 × 2000 = ",
+      "solution": "1"
+    },
+    {
+      "question": "123456 × 789 = ",
+      "solution": "97406784"
+    }
+  ],
+  "grundrechenarten/division": [
+    {
+      "question": "1248 ÷ 24 = ",
+      "solution": "52"
+    },
+    {
+      "question": "9801 ÷ 99 = ",
+      "solution": "99"
+    },
+    {
+      "question": "1000000 ÷ 1000 = ",
+      "solution": "1000"
+    },
+    {
+      "question": "355,3 ÷ 11,3 = ",
+      "solution": "31,44"
+    },
+    {
+      "question": "7,896 ÷ 3,2 = ",
+      "solution": "2,4675"
+    },
+    {
+      "question": "1 ÷ 3 = ",
+      "solution": "0,3333... (periodisch)"
+    },
+    {
+      "question": "1000000 ÷ 7 = ",
+      "solution": "142857,142857..."
+    },
+    {
+      "question": "99999 ÷ 9 = ",
+      "solution": "11111"
+    },
+    {
+      "question": "123456789 ÷ 9 = ",
+      "solution": "13717421"
+    },
+    {
+      "question": "1 ÷ 0,001 = ",
+      "solution": "1000"
+    },
+    {
+      "question": "0,0001 ÷ 0,01 = ",
+      "solution": "0,01"
+    },
+    {
+      "question": "9,87654321 ÷ 3 = ",
+      "solution": "3,29218107"
+    },
+    {
+      "question": "144 ÷ 12 = ",
+      "solution": "12"
+    },
+    {
+      "question": "1000 ÷ 5 ÷ 4 = ",
+      "solution": "50"
+    },
+    {
+      "question": "2,4 ÷ 0,03 = ",
+      "solution": "80"
+    },
+    {
+      "question": "7006652 ÷ 1234 = ",
+      "solution": "5678"
+    },
+    {
+      "question": "1000000 ÷ 256 = ",
+      "solution": "3906,25"
+    },
+    {
+      "question": "1592,0205 ÷ 67,89 = ",
+      "solution": "23,45"
+    },
+    {
+      "question": "1 ÷ 9 = ",
+      "solution": "0,111111... (periodisch)"
+    },
+    {
+      "question": "2000000000 ÷ 1000000 = ",
+      "solution": "2000"
+    },
+    {
+      "question": "1 ÷ 100000 = ",
+      "solution": "0,00001"
+    },
+    {
+      "question": "44253432 ÷ 789 = ",
+      "solution": "56088"
+    },
+    {
+      "question": "44,253432 ÷ 7,89 = ",
+      "solution": "5,608798732..."
+    },
+    {
+      "question": "53640432 ÷ 9876 = ",
+      "solution": "5432"
+    },
+    {
+      "question": "0,000001 ÷ 0,001 = ",
+      "solution": "0,001"
+    },
+    {
+      "question": "670592745 ÷ 12345 = ",
+      "solution": "54321"
+    },
+    {
+      "question": "669,636 ÷ 9,9 = ",
+      "solution": "67,64"
+    },
+    {
+      "question": "1 ÷ 3 ÷ 3 = ",
+      "solution": "0,111111... (periodisch)"
+    },
+    {
+      "question": "1000 ÷ 0,0005 = ",
+      "solution": "2000000"
+    },
+    {
+      "question": "97406784 ÷ 123456 = ",
+      "solution": "789"
+    }
+  ],
+  "grundrechenarten/dreisatz":[
+
+  ],
+  "grundrechenarten/einfacherDreisatz": [
+    {
+      "question": "3 Äpfel kosten 1,50 €. Wie viel kosten 9 Äpfel?",
+      "solution": "4,50 €"
+    },
+    {
+      "question": "Ein Auto fährt 240 km in 3 Stunden. Wie weit fährt es in 5 Stunden?",
+      "solution": "400 km"
+    },
+    {
+      "question": "4 Arbeiter brauchen 6 Tage für eine Arbeit. Wie lange brauchen 12 Arbeiter?",
+      "solution": "2 Tage"
+    },
+    {
+      "question": "200 g Mehl ergeben 300 g Teig. Wie viel Teig ergibt 500 g Mehl?",
+      "solution": "750 g"
+    },
+    {
+      "question": "Ein Zug legt 160 km in 2 Stunden zurück. Wie weit kommt er in 5 Stunden?",
+      "solution": "400 km"
+    },
+    {
+      "question": "8 Hühner legen in einer Woche 56 Eier. Wie viele Eier legen 12 Hühner in einer Woche?",
+      "solution": "84 Eier"
+    },
+    {
+      "question": "5 Liter Benzin kosten 7,50 €. Wie viel kosten 20 Liter?",
+      "solution": "30 €"
+    },
+    {
+      "question": "Eine Maschine produziert 400 Teile in 5 Stunden. Wie viele Teile produziert sie in 8 Stunden?",
+      "solution": "640 Teile"
+    },
+    {
+      "question": "10 kg Äpfel kosten 15 €. Wie viel kosten 6 kg?",
+      "solution": "9 €"
+    },
+    {
+      "question": "Ein Rezept für 4 Personen benötigt 300 g Mehl. Wie viel Mehl braucht man für 10 Personen?",
+      "solution": "750 g"
+    },
+    {
+      "question": "6 Arbeiter brauchen 4 Tage für einen Auftrag. Wie lange brauchen 8 Arbeiter?",
+      "solution": "3 Tage"
+    },
+    {
+      "question": "15 Meter Stoff kosten 45 €. Wie viel kosten 25 Meter?",
+      "solution": "75 €"
+    },
+    {
+      "question": "Ein Radfahrer fährt 30 km in 2 Stunden. Wie weit kommt er in 5 Stunden?",
+      "solution": "75 km"
+    },
+    {
+      "question": "3 Packungen Nudeln wiegen 1,5 kg. Wie viel wiegen 8 Packungen?",
+      "solution": "4 kg"
+    },
+    {
+      "question": "4 Tassen Kaffee kosten 10 €. Wie viel kosten 7 Tassen?",
+      "solution": "17,50 €"
+    },
+    {
+      "question": "Eine Familie verbraucht 60 Liter Wasser pro Tag. Wie viel verbraucht sie in 30 Tagen?",
+      "solution": "1800 Liter"
+    },
+    {
+      "question": "9 Bücher kosten 63 €. Wie viel kosten 15 Bücher?",
+      "solution": "105 €"
+    },
+    {
+      "question": "Ein Schwimmer legt 50 Meter in 30 Sekunden zurück. Wie weit schwimmt er in 2 Minuten?",
+      "solution": "200 Meter"
+    },
+    {
+      "question": "7 Hektar Land produzieren 21 Tonnen Weizen. Wie viel produzieren 12 Hektar?",
+      "solution": "36 Tonnen"
+    },
+    {
+      "question": "5 Packungen Kekse wiegen 750 g. Wie viel wiegen 8 Packungen?",
+      "solution": "1200 g"
+    },
+    {
+      "question": "Ein Auto verbraucht 6 Liter Benzin auf 100 km. Wie viel verbraucht es auf 250 km?",
+      "solution": "15 Liter"
+    },
+    {
+      "question": "4 Kinder essen zusammen 12 Äpfel in 2 Tagen. Wie viele Äpfel essen 6 Kinder in 3 Tagen?",
+      "solution": "27 Äpfel"
+    },
+    {
+      "question": "10 Arbeiter bauen ein Haus in 100 Tagen. Wie lange brauchen 20 Arbeiter?",
+      "solution": "50 Tage"
+    },
+    {
+      "question": "Ein Drucker druckt 30 Seiten in 5 Minuten. Wie viele Seiten druckt er in einer Stunde?",
+      "solution": "360 Seiten"
+    },
+    {
+      "question": "8 Bäume produzieren 40 kg Sauerstoff pro Tag. Wie viel produzieren 15 Bäume?",
+      "solution": "75 kg"
+    },
+    {
+      "question": "3 Packungen Milch kosten 4,50 €. Wie viel kosten 7 Packungen?",
+      "solution": "10,50 €"
+    },
+    {
+      "question": "Eine Klasse von 20 Schülern braucht 5 Liter Farbe für ein Projekt. Wie viel Farbe braucht eine Klasse von 32 Schülern?",
+      "solution": "8 Liter"
+    },
+    {
+      "question": "2 kg Kartoffeln kosten 3 €. Wie viel kosten 5 kg?",
+      "solution": "7,50 €"
+    },
+    {
+      "question": "Ein Flugzeug fliegt 800 km in 1 Stunde. Wie weit fliegt es in 3,5 Stunden?",
+      "solution": "2800 km"
+    },
+    {
+      "question": "6 Maschinen produzieren 1800 Teile pro Stunde. Wie viele Teile produzieren 10 Maschinen?",
+      "solution": "3000 Teile"
+    }
+  ],
+  "grundrechenarten/verschachtelterDreisatz": [
+    {
+      "question": "Ein Bäcker stellt in 5 Stunden 200 Brötchen her. Wie viele Brötchen stellen 3 Bäcker in 8 Stunden her?",
+      "solution": "960 Brötchen"
+    },
+    {
+      "question": "6 Maschinen produzieren in 4 Tagen 720 Teile. Wie viele Teile produzieren 9 Maschinen in 6 Tagen?",
+      "solution": "1620 Teile"
+    },
+    {
+      "question": "8 Arbeiter brauchen 10 Tage, um ein Haus zu streichen. Wie lange brauchen 5 Arbeiter für 2 gleich große Häuser?",
+      "solution": "32 Tage"
+    },
+    {
+      "question": "3 Drucker drucken in 2 Stunden 180 Seiten. Wie viele Seiten drucken 5 Drucker in 6 Stunden?",
+      "solution": "900 Seiten"
+    },
+    {
+      "question": "4 Hühner legen in 3 Tagen 24 Eier. Wie viele Eier legen 7 Hühner in 5 Tagen?",
+      "solution": "70 Eier"
+    },
+    {
+      "question": "2 Gärtner pflanzen in 3 Stunden 60 Bäume. Wie viele Bäume pflanzen 5 Gärtner in 8 Stunden?",
+      "solution": "400 Bäume"
+    },
+    {
+      "question": "5 Maurer bauen in 4 Tagen eine 20 Meter lange Mauer. Wie lange brauchen 3 Maurer für eine 36 Meter lange Mauer?",
+      "solution": "12 Tage"
+    },
+    {
+      "question": "3 Mäher mähen in 2 Stunden 600 m² Rasen. Wie viele m² mähen 5 Mäher in 6 Stunden?",
+      "solution": "3000 m²"
+    },
+    {
+      "question": "4 Kellner bedienen in 3 Stunden 60 Gäste. Wie viele Gäste können 6 Kellner in 5 Stunden bedienen?",
+      "solution": "150 Gäste"
+    },
+    {
+      "question": "2 Maschinen füllen in 5 Stunden 400 Flaschen ab. Wie viele Flaschen füllen 3 Maschinen in 8 Stunden ab?",
+      "solution": "960 Flaschen"
+    },
+    {
+      "question": "6 Schneider nähen in 4 Tagen 72 Hemden. Wie viele Hemden nähen 9 Schneider in 6 Tagen?",
+      "solution": "162 Hemden"
+    },
+    {
+      "question": "3 Köche kochen in 2 Stunden Essen für 90 Personen. Für wie viele Personen kochen 5 Köche in 6 Stunden?",
+      "solution": "450 Personen"
+    },
+    {
+      "question": "4 LKWs transportieren in 3 Fahrten 240 Tonnen Material. Wie viele Tonnen transportieren 6 LKWs in 5 Fahrten?",
+      "solution": "600 Tonnen"
+    },
+    {
+      "question": "2 Maschinen produzieren in 6 Stunden 360 Teile. Wie viele Teile produzieren 5 Maschinen in 4 Stunden?",
+      "solution": "600 Teile"
+    },
+    {
+      "question": "7 Arbeiter brauchen 3 Tage, um ein Dach zu decken. Wie lange brauchen 4 Arbeiter für 2 gleich große Dächer?",
+      "solution": "10,5 Tage"
+    },
+    {
+      "question": "5 Bäcker backen in 4 Stunden 300 Brote. Wie viele Brote backen 3 Bäcker in 10 Stunden?",
+      "solution": "450 Brote"
+    },
+    {
+      "question": "3 Maschinen füllen in 2 Stunden 180 Liter Saft ab. Wie viele Liter füllen 5 Maschinen in 6 Stunden ab?",
+      "solution": "900 Liter"
+    },
+    {
+      "question": "4 Maler streichen in 5 Tagen 200 m² Wand. Wie viele m² streichen 6 Maler in 8 Tagen?",
+      "solution": "480 m²"
+    },
+    {
+      "question": "2 Näherinnen nähen in 3 Stunden 12 Kleider. Wie viele Kleider nähen 5 Näherinnen in 9 Stunden?",
+      "solution": "90 Kleider"
+    },
+    {
+      "question": "6 Erntemaschinen ernten in 4 Tagen 240 Hektar Feld. Wie viele Hektar ernten 9 Maschinen in 6 Tagen?",
+      "solution": "540 Hektar"
+    },
+    {
+      "question": "3 Reinigungskräfte putzen in 2 Stunden 6 Büros. Wie viele Büros putzen 5 Reinigungskräfte in 6 Stunden?",
+      "solution": "30 Büros"
+    },
+    {
+      "question": "4 Lastwagen transportieren in 3 Fahrten 240 m³ Sand. Wie viele m³ Sand transportieren 6 Lastwagen in 5 Fahrten?",
+      "solution": "600 m³"
+    },
+    {
+      "question": "5 Maschinen produzieren in 4 Stunden 1000 Schrauben. Wie viele Schrauben produzieren 3 Maschinen in 10 Stunden?",
+      "solution": "1500 Schrauben"
+    },
+    {
+      "question": "2 Gärtner pflanzen in 5 Tagen 100 Rosenbüsche. Wie viele Rosenbüsche pflanzen 4 Gärtner in 3 Tagen?",
+      "solution": "120 Rosenbüsche"
+    },
+    {
+      "question": "3 Kellner bedienen in 4 Stunden 72 Gäste. Wie viele Gäste bedienen 5 Kellner in 6 Stunden?",
+      "solution": "180 Gäste"
+    },
+    {
+      "question": "6 Maschinen verarbeiten in 3 Tagen 1800 kg Rohstoffe. Wie viele kg verarbeiten 4 Maschinen in 9 Tagen?",
+      "solution": "3600 kg"
+    },
+    {
+      "question": "4 Bäcker backen in 6 Stunden 480 Kekse. Wie viele Kekse backen 7 Bäcker in 3 Stunden?",
+      "solution": "420 Kekse"
+    },
+    {
+      "question": "5 Maurer bauen in 4 Tagen eine Mauer von 40 m Länge. Wie lang ist die Mauer, die 3 Maurer in 10 Tagen bauen?",
+      "solution": "60 m"
+    },
+    {
+      "question": "3 Schneiderinnen nähen in 5 Stunden 45 Masken. Wie viele Masken nähen 4 Schneiderinnen in 3 Stunden?",
+      "solution": "36 Masken"
+    },
+    {
+      "question": "2 Drucker drucken in 3 Stunden 180 Flyer. Wie viele Flyer drucken 5 Drucker in 4 Stunden?",
+      "solution": "600 Flyer"
+    }
+  ],
+  "grundrechenarten/umgekehrterDreisatz": [
+    {
+      "question": "10 Arbeiter brauchen 12 Tage für einen Auftrag. Wie lange brauchen 15 Arbeiter?",
+      "solution": "8 Tage"
+    },
+    {
+      "question": "Eine Maschine füllt einen Tank in 8 Stunden. Wie lange brauchen 2 Maschinen?",
+      "solution": "4 Stunden"
+    },
+    {
+      "question": "5 Mäher brauchen 4 Stunden für einen Rasen. Wie lange brauchen 10 Mäher?",
+      "solution": "2 Stunden"
+    },
+    {
+      "question": "Ein Auto braucht mit 100 km/h 3 Stunden für eine Strecke. Wie lange braucht es mit 150 km/h?",
+      "solution": "2 Stunden"
+    },
+    {
+      "question": "6 Hühner legen in 30 Tagen 180 Eier. Wie viele Tage brauchen 9 Hühner für 180 Eier?",
+      "solution": "20 Tage"
+    },
+    {
+      "question": "3 Pumpen leeren einen Pool in 6 Stunden. Wie lange brauchen 2 Pumpen?",
+      "solution": "9 Stunden"
+    },
+    {
+      "question": "8 Maschinen produzieren eine Warenmenge in 10 Tagen. Wie lange brauchen 5 Maschinen?",
+      "solution": "16 Tage"
+    },
+    {
+      "question": "4 Bäcker backen 200 Brote in 5 Stunden. Wie lange brauchen 10 Bäcker für 200 Brote?",
+      "solution": "2 Stunden"
+    },
+    {
+      "question": "12 Arbeiter graben einen Kanal in 9 Tagen. Wie lange brauchen 18 Arbeiter?",
+      "solution": "6 Tage"
+    },
+    {
+      "question": "7 Maschinen verpacken eine Warenmenge in 6 Stunden. Wie lange brauchen 14 Maschinen?",
+      "solution": "3 Stunden"
+    },
+    {
+      "question": "5 Drucker drucken einen Auftrag in 4 Tagen. Wie lange brauchen 10 Drucker?",
+      "solution": "2 Tage"
+    },
+    {
+      "question": "9 Maler streichen ein Haus in 12 Tagen. Wie lange brauchen 36 Maler?",
+      "solution": "3 Tage"
+    },
+    {
+      "question": "6 Schneider nähen 300 Hemden in 5 Tagen. Wie lange brauchen 10 Schneider für 300 Hemden?",
+      "solution": "3 Tage"
+    },
+    {
+      "question": "4 Maschinen füllen 1000 Flaschen in 2 Stunden. Wie lange braucht 1 Maschine?",
+      "solution": "8 Stunden"
+    },
+    {
+      "question": "15 Arbeiter ernten ein Feld in 10 Tagen. Wie lange brauchen 25 Arbeiter?",
+      "solution": "6 Tage"
+    },
+    {
+      "question": "8 Köche bereiten ein Bankett in 6 Stunden vor. Wie lange brauchen 12 Köche?",
+      "solution": "4 Stunden"
+    },
+    {
+      "question": "3 Maurer bauen eine Mauer in 14 Tagen. Wie lange brauchen 7 Maurer?",
+      "solution": "6 Tage"
+    },
+    {
+      "question": "10 Reinigungskräfte putzen ein Bürogebäude in 8 Stunden. Wie lange brauchen 5 Reinigungskräfte?",
+      "solution": "16 Stunden"
+    },
+    {
+      "question": "6 LKWs transportieren eine Ladung in 4 Fahrten. Wie viele Fahrten brauchen 3 LKWs?",
+      "solution": "8 Fahrten"
+    },
+    {
+      "question": "12 Näherinnen fertigen 600 Masken in 5 Tagen. Wie lange brauchen 20 Näherinnen für 600 Masken?",
+      "solution": "3 Tage"
+    },
+    {
+      "question": "5 Maschinen verarbeiten 1000 kg Rohstoffe in 8 Stunden. Wie lange brauchen 10 Maschinen?",
+      "solution": "4 Stunden"
+    },
+    {
+      "question": "9 Gärtner pflanzen einen Park in 15 Tagen. Wie lange brauchen 3 Gärtner?",
+      "solution": "45 Tage"
+    },
+    {
+      "question": "7 Kellner bedienen ein Festmahl in 6 Stunden. Wie lange brauchen 14 Kellner?",
+      "solution": "3 Stunden"
+    },
+    {
+      "question": "4 Maschinen produzieren 800 Teile in 10 Stunden. Wie lange brauchen 8 Maschinen für 800 Teile?",
+      "solution": "5 Stunden"
+    },
+    {
+      "question": "6 Bäcker backen 300 Brötchen in 2 Stunden. Wie lange brauchen 3 Bäcker für 300 Brötchen?",
+      "solution": "4 Stunden"
+    },
+    {
+      "question": "10 Arbeiter bauen ein Haus in 180 Tagen. Wie lange brauchen 30 Arbeiter?",
+      "solution": "60 Tage"
+    },
+    {
+      "question": "8 Maschinen füllen einen Silo in 12 Stunden. Wie lange brauchen 6 Maschinen?",
+      "solution": "16 Stunden"
+    },
+    {
+      "question": "5 Drucker drucken 10000 Flyer in 4 Stunden. Wie lange brauchen 20 Drucker für 10000 Flyer?",
+      "solution": "1 Stunde"
+    },
+    {
+      "question": "3 Mäher mähen einen Golfplatz in 9 Stunden. Wie lange braucht 1 Mäher?",
+      "solution": "27 Stunden"
+    },
+    {
+      "question": "7 Maschinen stellen 1400 Produkte in 5 Tagen her. Wie lange brauchen 35 Maschinen für 1400 Produkte?",
+      "solution": "1 Tag"
+    }
+  ],
+  "grundrechenarten/schwierigeProzentrechnung": [
+    {
+      "question": "Ein Produkt wird zweimal hintereinander um jeweils 20% reduziert. Um wie viel Prozent hat sich der Preis insgesamt verringert?",
+      "solution": "36%"
+    },
+    {
+      "question": "Eine Aktie steigt an einem Tag um 10% und fällt am nächsten Tag um 10%. Wie hoch ist die prozentuale Gesamtveränderung?",
+      "solution": "1% Verlust"
+    },
+    {
+      "question": "Ein Unternehmen steigert seinen Umsatz drei Jahre in Folge um jeweils 5%. Um wie viel Prozent ist der Umsatz insgesamt gestiegen?",
+      "solution": "15,76%"
+    },
+    {
+      "question": "Ein Produkt kostet 100 €. Der Händler schlägt 25% auf und berechnet dann 19% Mehrwertsteuer. Wie hoch ist der Endpreis?",
+      "solution": "148,75 €"
+    },
+    {
+      "question": "Eine Stadt hat 50.000 Einwohner und wächst jährlich um 2,5%. Wie viele Einwohner hat die Stadt nach 3 Jahren?",
+      "solution": "53.814 Einwohner"
+    },
+    {
+      "question": "Ein Auto verliert jedes Jahr 15% seines Wertes. Nach wie vielen Jahren ist es weniger als die Hälfte des ursprünglichen Wertes wert?",
+      "solution": "5 Jahre"
+    },
+    {
+      "question": "Eine Firma hat 1000 Mitarbeiter. 40% sind Frauen, von denen wiederum 25% in Teilzeit arbeiten. Wie viele Frauen arbeiten Vollzeit?",
+      "solution": "300 Frauen"
+    },
+    {
+      "question": "Ein Produkt wird um 20% reduziert. Um wie viel Prozent muss der reduzierte Preis erhöht werden, um wieder den Originalpreis zu erreichen?",
+      "solution": "25%"
+    },
+    {
+      "question": "Ein Unternehmen hat 5 Millionen € Umsatz und 8% Gewinn. Die Steuern betragen 30% des Gewinns. Wie hoch ist der Gewinn nach Steuern?",
+      "solution": "280.000 €"
+    },
+    {
+      "question": "Eine Ware wird zunächst um 10% verteuert und dann um 10% verbilligt. Wie hoch ist die prozentuale Gesamtveränderung?",
+      "solution": "1% Verringerung"
+    },
+    {
+      "question": "Ein Produkt kostet 80 € plus 19% Mehrwertsteuer. Wie hoch ist der Nettopreis, wenn der Bruttopreis um 15% reduziert wird?",
+      "solution": "68 €"
+    },
+    {
+      "question": "Eine Firma wächst jährlich um 8%. Nach wie vielen Jahren hat sich die Größe der Firma verdoppelt?",
+      "solution": "9 Jahre"
+    },
+    {
+      "question": "Ein Sparbuch bietet 2% Zinsen pro Jahr. Wie lange dauert es, bis sich das Kapital verdoppelt hat (ohne Zinseszins)?",
+      "solution": "50 Jahre"
+    },
+    {
+      "question": "Eine Maschine produziert 1000 Teile pro Tag, wovon 3% fehlerhaft sind. An wie vielen Tagen muss die Maschine laufen, um 10.000 fehlerfreie Teile zu produzieren?",
+      "solution": "11 Tage"
+    },
+    {
+      "question": "Ein Unternehmen hat 20% Marktanteil. Ein Konkurrent hat 25% mehr Marktanteil als dieses Unternehmen. Wie groß ist der Marktanteil des Konkurrenten?",
+      "solution": "25%"
+    },
+    {
+      "question": "Eine Ware wird zweimal hintereinander im Preis erhöht, zuerst um 10%, dann um 20%. Um wie viel Prozent muss der neue Preis gesenkt werden, um wieder den Ausgangspreis zu erreichen?",
+      "solution": "25%"
+    },
+    {
+      "question": "Ein Unternehmen hat 1000 Mitarbeiter. 60% sind männlich, davon sind 15% über 50 Jahre alt. Wie viele männliche Mitarbeiter sind 50 Jahre oder jünger?",
+      "solution": "510 Mitarbeiter"
+    },
+    {
+      "question": "Eine Aktie fällt an einem Tag um 20% und steigt am nächsten Tag um 25%. Wie hoch ist die prozentuale Gesamtveränderung?",
+      "solution": "0% (keine Veränderung)"
+    },
+    {
+      "question": "Ein Produkt kostet 100 €. Der Händler gibt 10% Rabatt, schlägt dann 20% auf und berechnet schließlich 19% Mehrwertsteuer. Wie hoch ist der Endpreis?",
+      "solution": "128,52 €"
+    },
+    {
+      "question": "Eine Stadt hat 100.000 Einwohner. Die Bevölkerung wächst jährlich um 1,5%. Nach wie vielen Jahren wird die Stadt 110.000 Einwohner haben?",
+      "solution": "7 Jahre"
+    },
+    {
+      "question": "Ein Unternehmen steigert seinen Umsatz jedes Jahr um 6%. Um wie viel Prozent ist der Umsatz nach 4 Jahren insgesamt gestiegen?",
+      "solution": "26,25%"
+    },
+    {
+      "question": "Ein Produkt wird zunächst um 20% reduziert und dann nochmals um 15%. Wie hoch ist der Gesamtrabatt in Prozent?",
+      "solution": "32%"
+    },
+    {
+      "question": "Eine Firma hat 500 Mitarbeiter. 30% sind in der Produktion tätig, 25% im Vertrieb und 20% in der Verwaltung. Wie viel Prozent der Mitarbeiter sind in anderen Bereichen tätig?",
+      "solution": "25%"
+    },
+    {
+      "question": "Ein Sparbuch bietet 1,5% Zinsen pro Jahr. Wie viel Geld muss man einzahlen, um nach 10 Jahren 10.000 € zu haben (ohne Zinseszins)?",
+      "solution": "8.510 €"
+    },
+    {
+      "question": "Eine Maschine arbeitet mit 80% Effizienz. Wenn sie 1000 Teile pro Tag produziert, wie viele Teile würde sie bei 100% Effizienz produzieren?",
+      "solution": "1250 Teile"
+    },
+    {
+      "question": "Ein Unternehmen hat 10 Millionen € Umsatz und 12% Gewinn. Es will 5% des Gewinns als Bonus an die Mitarbeiter auszahlen. Wie hoch ist der Bonus?",
+      "solution": "60.000 €"
+    },
+    {
+      "question": "Eine Ware wird dreimal hintereinander um jeweils 10% reduziert. Um wie viel Prozent hat sich der Preis insgesamt verringert?",
+      "solution": "27,1%"
+    },
+    {
+      "question": "Ein Produkt kostet 200 €. Der Händler gibt 15% Rabatt, berechnet dann 19% Mehrwertsteuer und gibt schließlich noch 5% Skonto. Wie hoch ist der Endpreis?",
+      "solution": "180,88 €"
+    },
+    {
+      "question": "Eine Firma wächst in den ersten zwei Jahren um jeweils 20% und in den darauffolgenden drei Jahren um jeweils 10%. Um wie viel Prozent ist die Firma insgesamt gewachsen?",
+      "solution": "85,17%"
+    },
+    {
+      "question": "Ein Unternehmen hat 1000 Kunden. Es gewinnt jedes Jahr 10% neue Kunden, verliert aber auch 5% der bestehenden Kunden. Wie viele Kunden hat das Unternehmen nach 3 Jahren?",
+      "solution": "1157 Kunden"
+    }
+  ],
+  "bruchrechnung/subtraktion": [
+    {
+      "question": "\\frac{5}{6} - \\frac{1}{3} = ",
+      "solution": "\\frac{1}{2}"
+    },
+    {
+      "question": "\\frac{7}{8} - \\frac{3}{4} = ",
+      "solution": "\\frac{1}{8}"
+    },
+    {
+      "question": "\\frac{9}{10} - \\frac{2}{5} = ",
+      "solution": "\\frac{1}{2}"
+    },
+    {
+      "question": "\\frac{11}{12} - \\frac{5}{6} = ",
+      "solution": "\\frac{1}{12}"
+    },
+    {
+      "question": "\\frac{4}{5} - \\frac{3}{10} = ",
+      "solution": "\\frac{1}{2}"
+    },
+    {
+      "question": "\\frac{5}{7} - \\frac{2}{7} = ",
+      "solution": "\\frac{3}{7}"
+    },
+    {
+      "question": "\\frac{8}{9} - \\frac{5}{9} = ",
+      "solution": "\\frac{1}{3}"
+    },
+    {
+      "question": "\\frac{7}{10} - \\frac{3}{5} = ",
+      "solution": "\\frac{1}{10}"
+    },
+    {
+      "question": "\\frac{13}{15} - \\frac{2}{3} = ",
+      "solution": "\\frac{1}{5}"
+    },
+    {
+      "question": "\\frac{11}{14} - \\frac{3}{7} = ",
+      "solution": "\\frac{5}{14}"
+    }
+  ],
+  "bruchrechnung/multiplikation": [
+    {
+      "question": "\\frac{2}{3} \\times \\frac{3}{4} = ",
+      "solution": "\\frac{1}{2}"
+    },
+    {
+      "question": "\\frac{5}{6} \\times \\frac{2}{5} = ",
+      "solution": "\\frac{1}{3}"
+    },
+    {
+      "question": "\\frac{3}{7} \\times \\frac{4}{9} = ",
+      "solution": "\\frac{4}{21}"
+    },
+    {
+      "question": "\\frac{5}{8} \\times \\frac{3}{10} = ",
+      "solution": "\\frac{3}{16}"
+    },
+    {
+      "question": "\\frac{2}{5} \\times \\frac{5}{6} = ",
+      "solution": "\\frac{1}{3}"
+    },
+    {
+      "question": "\\frac{7}{9} \\times \\frac{3}{7} = ",
+      "solution": "\\frac{1}{3}"
+    },
+    {
+      "question": "\\frac{4}{11} \\times \\frac{5}{8} = ",
+      "solution": "\\frac{5}{22}"
+    },
+    {
+      "question": "\\frac{3}{5} \\times \\frac{2}{9} = ",
+      "solution": "\\frac{2}{15}"
+    },
+    {
+      "question": "\\frac{5}{12} \\times \\frac{6}{7} = ",
+      "solution": "\\frac{5}{14}"
+    },
+    {
+      "question": "\\frac{8}{15} \\times \\frac{5}{16} = ",
+      "solution": "\\frac{1}{6}"
+    },
+    {
+      "question": "\\frac{3}{8} \\times \\frac{4}{5} = ",
+      "solution": "\\frac{3}{10}"
+    },
+    {
+      "question": "\\frac{7}{11} \\times \\frac{2}{7} = ",
+      "solution": "\\frac{2}{11}"
+    },
+    {
+      "question": "\\frac{5}{9} \\times \\frac{3}{5} = ",
+      "solution": "\\frac{1}{3}"
+    },
+    {
+      "question": "\\frac{4}{7} \\times \\frac{7}{12} = ",
+      "solution": "\\frac{1}{3}"
+    },
+    {
+      "question": "\\frac{2}{3} \\times \\frac{9}{10} = ",
+      "solution": "\\frac{3}{5}"
+    },
+    {
+      "question": "\\frac{5}{13} \\times \\frac{13}{15} = ",
+      "solution": "\\frac{1}{3}"
+    },
+    {
+      "question": "\\frac{3}{4} \\times \\frac{8}{9} = ",
+      "solution": "\\frac{2}{3}"
+    },
+    {
+      "question": "\\frac{7}{16} \\times \\frac{4}{7} = ",
+      "solution": "\\frac{1}{4}"
+    },
+    {
+      "question": "\\frac{5}{11} \\times \\frac{11}{20} = ",
+      "solution": "\\frac{1}{4}"
+    },
+    {
+      "question": "\\frac{9}{14} \\times \\frac{2}{9} = ",
+      "solution": "\\frac{1}{7}"
+    },
+    {
+      "question": "\\frac{4}{15} \\times \\frac{5}{8} = ",
+      "solution": "\\frac{1}{6}"
+    }
+  ],
+  "bruchrechnung/division": [
+    {
+      "question": "\\frac{3}{4} \\div \\frac{1}{2} = ",
+      "solution": "\\frac{3}{2}"
+    },
+    {
+      "question": "\\frac{5}{6} \\div \\frac{2}{3} = ",
+      "solution": "\\frac{5}{4}"
+    },
+    {
+      "question": "\\frac{7}{8} \\div \\frac{3}{4} = ",
+      "solution": "\\frac{7}{6}"
+    },
+    {
+      "question": "\\frac{9}{10} \\div \\frac{3}{5} = ",
+      "solution": "\\frac{3}{2}"
+    },
+    {
+      "question": "\\frac{2}{3} \\div \\frac{1}{6} = ",
+      "solution": "4"
+    },
+    {
+      "question": "\\frac{5}{7} \\div \\frac{1}{3} = ",
+      "solution": "\\frac{15}{7}"
+    },
+    {
+      "question": "\\frac{4}{5} \\div \\frac{2}{5} = ",
+      "solution": "2"
+    },
+    {
+      "question": "\\frac{11}{12} \\div \\frac{5}{6} = ",
+      "solution": "\\frac{11}{10}"
+    },
+    {
+      "question": "\\frac{3}{8} \\div \\frac{1}{4} = ",
+      "solution": "\\frac{3}{2}"
+    },
+    {
+      "question": "\\frac{7}{9} \\div \\frac{1}{3} = ",
+      "solution": "\\frac{7}{3}"
+    }
+  ],
+  "terme/vereinfachen": [
+    {
+      "question": "3x + 5x = ",
+      "solution": "8x"
+    },
+    {
+      "question": "2a - 7 + 5a + 3 = ",
+      "solution": "7a - 4"
+    },
+    {
+      "question": "4(x + 2) - 3(x - 1) = ",
+      "solution": "x + 11"
+    },
+    {
+      "question": "\\frac{1}{2}y + \\frac{1}{3}y - \\frac{1}{6}y = ",
+      "solution": "\\frac{2}{3}y"
+    },
+    {
+      "question": "2(3x - 4) + 3(2x + 1) = ",
+      "solution": "12x - 5"
+    },
+    {
+      "question": "5(a + b) - 2(a - b) = ",
+      "solution": "3a + 7b"
+    },
+    {
+      "question": "\\frac{x}{2} + \\frac{x}{3} + \\frac{x}{6} = ",
+      "solution": "x"
+    },
+    {
+      "question": "3(x + 2y) - 2(x - y) + 4(y - x) = ",
+      "solution": "9y"
+    },
+    {
+      "question": "\\frac{2x}{3} - \\frac{5x}{4} + \\frac{7x}{6} - \\frac{x}{2} = ",
+      "solution": "-\\frac{x}{12}"
+    },
+    {
+      "question": "3(2x - y) + 4(3y - 2x) + 5(x + y) = ",
+      "solution": "5x + 17y"
+    },
+    {
+      "question": "7m + 3m - 2m = ",
+      "solution": "8m"
+    },
+    {
+      "question": "4(p - 3) + 2(p + 5) = ",
+      "solution": "6p + 4"
+    },
+    {
+      "question": "\\frac{3}{4}z - \\frac{1}{2}z + \\frac{5}{8}z = ",
+      "solution": "\\frac{7}{8}z"
+    },
+    {
+      "question": "6(x - 1) - 3(2x + 3) = ",
+      "solution": "-3x - 15"
+    },
+    {
+      "question": "2(a + b + c) - (a - b + c) = ",
+      "solution": "a + 3b + c"
+    },
+    {
+      "question": "\\frac{2x}{5} + \\frac{3x}{10} - \\frac{x}{2} = ",
+      "solution": "\\frac{x}{10}"
+    },
+    {
+      "question": "4(2x + y) - 3(x - 2y) + 2(y - 3x) = ",
+      "solution": "x + 11y"
+    },
+    {
+      "question": "\\frac{3p}{4} - \\frac{2p}{3} + \\frac{5p}{6} = ",
+      "solution": "\\frac{23p}{12}"
+    },
+    {
+      "question": "5(3a - 2b) - 2(4a + 3b) + 7(a - b) = ",
+      "solution": "12a - 23b"
+    },
+    {
+      "question": "2(x^2 + 3x) - 3(x^2 - 2x) = ",
+      "solution": "-x^2 + 13x"
+    },
+    {
+      "question": "6y - 2(y - 3) + 4(2y + 1) = ",
+      "solution": "14y + 10"
+    },
+    {
+      "question": "\\frac{1}{3}(x + 2) + \\frac{1}{2}(x - 4) = ",
+      "solution": "\\frac{5x - 4}{6}"
+    },
+    {
+      "question": "3(2x + y) - 2(x - 3y) + 5(y - x) = ",
+      "solution": "14y"
+    },
+    {
+      "question": "4(a + 2b) - 3(2a - b) + 2(3b - a) = ",
+      "solution": "-3a + 13b"
+    },
+    {
+      "question": "\\frac{5m}{6} + \\frac{2m}{3} - \\frac{m}{2} = ",
+      "solution": "\\frac{11m}{6}"
+    },
+    {
+      "question": "2(3x - 4y) + 5(2y - x) + 3(x + y) = ",
+      "solution": "4x + 7y"
+    },
+    {
+      "question": "7(p + q) - 3(p - q) - 2(2p + q) = ",
+      "solution": "-p + 8q"
+    },
+    {
+      "question": "\\frac{2x}{5} - \\frac{3x}{10} + \\frac{x}{2} = ",
+      "solution": "\\frac{7x}{10}"
+    },
+    {
+      "question": "4(3a - 2b) - 2(a + 3b) + 5(2a - b) = ",
+      "solution": "17a - 14b"
+    },
+    {
+      "question": "\\frac{1}{2}(x + y) + \\frac{1}{3}(x - y) - \\frac{1}{6}(x + y) = ",
+      "solution": "\\frac{x}{2}"
+    }
+  ],
+  "terme/ausklammern": [
+    {
+      "question": "6x^2 + 9x = ",
+      "solution": "3x(2x + 3)"
+    },
+    {
+      "question": "15a^2 - 10ab + 5b^2 = ",
+      "solution": "5(3a^2 - 2ab + b^2)"
+    },
+    {
+      "question": "x^2 - 2x + 1 = ",
+      "solution": "(x - 1)^2"
+    },
+    {
+      "question": "8x^3 - 4x^2 + 2x = ",
+      "solution": "2x(4x^2 - 2x + 1)"
+    },
+    {
+      "question": "a^3 + a^2b + ab^2 + b^3 = ",
+      "solution": "(a + b)(a^2 + b^2)"
+    },
+    {
+      "question": "x^4 - y^4 = ",
+      "solution": "(x^2 + y^2)(x^2 - y^2)"
+    },
+    {
+      "question": "4x^2 - 4xy + y^2 = ",
+      "solution": "(2x - y)^2"
+    },
+    {
+      "question": "27a^3 - 27b^3 = ",
+      "solution": "27(a - b)(a^2 + ab + b^2)"
+    },
+    {
+      "question": "x^3 + 3x^2y + 3xy^2 + y^3 - 1 = ",
+      "solution": "(x + y)^3 - 1"
+    },
+    {
+      "question": "16x^4 - 81y^4 + 24x^2y^2 = ",
+      "solution": "(4x^2 + 9y^2)(4x^2 - 9y^2)"
+    },
+    {
+      "question": "12a^2 + 18ab = ",
+      "solution": "6a(2a + 3b)"
+    },
+    {
+      "question": "x^3 - 8 = ",
+      "solution": "(x - 2)(x^2 + 2x + 4)"
+    },
+    {
+      "question": "9x^2 - 6xy + y^2 = ",
+      "solution": "(3x - y)^2"
+    },
+    {
+      "question": "25a^2 - 16b^2 = ",
+      "solution": "(5a + 4b)(5a - 4b)"
+    },
+    {
+      "question": "x^4 + 4x^3y + 6x^2y^2 + 4xy^3 + y^4 = ",
+      "solution": "(x^2 + 2xy + y^2)^2"
+    },
+    {
+      "question": "8x^3 + 27y^3 = ",
+      "solution": "(2x + 3y)(4x^2 - 6xy + 9y^2)"
+    },
+    {
+      "question": "4x^2 - 9y^2 = ",
+      "solution": "(2x + 3y)(2x - 3y)"
+    }
+  ],
+  "terme/ausmultiplizieren": [
+    {
+      "question": "(x + 3)(x + 2) = ",
+      "solution": "x^2 + 5x + 6"
+    },
+    {
+      "question": "(2a - 1)(a + 3) = ",
+      "solution": "2a^2 + 5a - 3"
+    },
+    {
+      "question": "(x - 2)^2 = ",
+      "solution": "x^2 - 4x + 4"
+    },
+    {
+      "question": "(3x + 1)(x - 2) = ",
+      "solution": "3x^2 - 5x - 2"
+    },
+    {
+      "question": "(y + 2)(y^2 - 2y + 4) = ",
+      "solution": "y^3 + 8"
+    },
+    {
+      "question": "(2x - 1)(x + 1)(x - 1) = ",
+      "solution": "2x^3 - 2x"
+    },
+    {
+      "question": "(a + b)^2 - (a - b)^2 = ",
+      "solution": "4ab"
+    },
+    {
+      "question": "(x + 1)(x + 2)(x + 3) = ",
+      "solution": "x^3 + 6x^2 + 11x + 6"
+    },
+    {
+      "question": "(2x + 3y)^3 = ",
+      "solution": "8x^3 + 36x^2y + 54xy^2 + 27y^3"
+    },
+    {
+      "question": "(x^2 + 2x - 1)(x^2 - 2x + 1) = ",
+      "solution": "x^4 - 1"
+    },
+    {
+      "question": "(3x - 2)(x + 4) = ",
+      "solution": "3x^2 + 10x - 8"
+    },
+    {
+      "question": "(2y + 1)^2 = ",
+      "solution": "4y^2 + 4y + 1"
+    },
+    {
+      "question": "(x + 3)(x - 3) = ",
+      "solution": "x^2 - 9"
+    },
+    {
+      "question": "(2a + 3b)(a - b) = ",
+      "solution": "2a^2 - 2ab - 3b^2"
+    },
+    {
+      "question": "(x^2 + 3)(x - 2) = ",
+      "solution": "x^3 - 2x^2 + 3x - 6"
+    },
+    {
+      "question": "(3x - 1)^2 = ",
+      "solution": "9x^2 - 6x + 1"
+    },
+    {
+      "question": "(2x + y)(2x - y) = ",
+      "solution": "4x^2 - y^2"
+    },
+    {
+      "question": "(x + 2)(x^2 - 2x + 4) = ",
+      "solution": "x^3 + 8"
+    },
+    {
+      "question": "(a - 2)(a + 2)(a^2 + 4) = ",
+      "solution": "a^4 - 16"
+    },
+    {
+      "question": "(x + 1)^3 = ",
+      "solution": "x^3 + 3x^2 + 3x + 1"
+    },
+    {
+      "question": "(2x - 3y)(3x + 2y) = ",
+      "solution": "6x^2 - 5xy - 6y^2"
+    },
+    {
+      "question": "(x + y)^3 = ",
+      "solution": "x^3 + 3x^2y + 3xy^2 + y^3"
+    },
+    {
+      "question": "(3x - 2)(3x + 2) = ",
+      "solution": "9x^2 - 4"
+    },
+    {
+      "question": "(a + b)(a^2 - ab + b^2) = ",
+      "solution": "a^3 + b^3"
+    },
+    {
+      "question": "(2x - 1)(2x + 1)(2x^2 + 1) = ",
+      "solution": "8x^4 - 1"
+    },
+    {
+      "question": "(x - y)^3 = ",
+      "solution": "x^3 - 3x^2y + 3xy^2 - y^3"
+    },
+    {
+      "question": "(3a + 2b)(3a - 2b) = ",
+      "solution": "9a^2 - 4b^2"
+    },
+    {
+      "question": "(x + 2)^2(x - 2) = ",
+      "solution": "x^3 + 4x^2 - 4x - 8"
+    },
+    {
+      "question": "(2x + 3)(x^2 - 3x + 9) = ",
+      "solution": "2x^3 - 3x^2 + 9x + 27"
+    },
+    {
+      "question": "(a - b)^3 + (a + b)^3 = ",
+      "solution": "2a^3 + 6ab^2"
+    }
+  ],
+  "potenzrechnung/erweitert": [
+    {
+      "question": "2^3 \\cdot 2^5 = ",
+      "solution": "2^8"
+    },
+    {
+      "question": "3^6 \\div 3^4 = ",
+      "solution": "3^2"
+    },
+    {
+      "question": "5^4 + 5^4 = ",
+      "solution": "2 \\cdot 5^4"
+    },
+    {
+      "question": "7^3 - 7^3 = ",
+      "solution": "0"
+    },
+    {
+      "question": "(2^3)^2 = ",
+      "solution": "2^6"
+    },
+    {
+      "question": "(3^2 \\cdot 3^3)^2 = ",
+      "solution": "3^{10}"
+    },
+    {
+      "question": "4^{2+3} = ",
+      "solution": "4^5"
+    },
+    {
+      "question": "(5^2 + 5^3)^2 = ",
+      "solution": "(5^2 + 5^3)^2"
+    },
+    {
+      "question": "(2^4)^3 = ",
+      "solution": "2^{12}"
+    },
+    {
+      "question": "(3^2 \\cdot 3)^3 = ",
+      "solution": "3^9"
+    },
+    {
+      "question": "x^4 \\cdot (x^3)^2 = ",
+      "solution": "x^{10}"
+    },
+    {
+      "question": "(y^2)^3 \\div y^3 = ",
+      "solution": "y^3"
+    },
+    {
+      "question": "(a^2 + a^3)^2 = ",
+      "solution": "(a^2 + a^3)^2"
+    },
+    {
+      "question": "(b^3 - b^2)^2 = ",
+      "solution": "(b^3 - b^2)^2"
+    },
+    {
+      "question": "2^3 \\cdot (2^2 + 2^4) = ",
+      "solution": "2^3 \\cdot (2^2 + 2^4)"
+    },
+    {
+      "question": "3^4 \\div (3^2 - 3) = ",
+      "solution": "3^4 \\div (3^2 - 3)"
+    },
+    {
+      "question": "(4^2 \\cdot 4^3)^2 = ",
+      "solution": "4^{10}"
+    },
+    {
+      "question": "(5^3 \\div 5^2)^3 = ",
+      "solution": "5^3"
+    },
+    {
+      "question": "2^{3+4} \\cdot 2^2 = ",
+      "solution": "2^9"
+    },
+    {
+      "question": "3^{5-2} \\div 3^2 = ",
+      "solution": "3"
+    },
+    {
+      "question": "(x^2 \\cdot x^3)^2 = ",
+      "solution": "x^{10}"
+    },
+    {
+      "question": "(y^4 \\div y^2)^3 = ",
+      "solution": "y^6"
+    },
+    {
+      "question": "(a^2 + a)^3 = ",
+      "solution": "(a^2 + a)^3"
+    },
+    {
+      "question": "(b^3 - b)^2 = ",
+      "solution": "(b^3 - b)^2"
+    },
+    {
+      "question": "2^4 \\cdot (2^3 + 2^2)^2 = ",
+      "solution": "2^4 \\cdot (2^3 + 2^2)^2"
+    },
+    {
+      "question": "3^5 \\div (3^2 \\cdot 3)^2 = ",
+      "solution": "3^{-1}"
+    },
+    {
+      "question": "(4^3)^2 \\cdot 4^2 = ",
+      "solution": "4^8"
+    },
+    {
+      "question": "(5^2)^3 \\div 5^4 = ",
+      "solution": "5^2"
+    },
+    {
+      "question": "(2^3 + 2^4)^2 - 2^7 = ",
+      "solution": "(2^3 + 2^4)^2 - 2^7"
+    },
+    {
+      "question": "(3^4 - 3^3)^2 + 3^5 = ",
+      "solution": "(3^4 - 3^3)^2 + 3^5"
+    }
+  ]
+}
