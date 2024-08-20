@@ -8,6 +8,8 @@ import { TableOfContentsIcon } from 'lucide-react';
 const navItems = [
   { text: "GrundlagenI" },
   { text: "GrundlagenII" },
+  { text: "Terme" },
+  { text: "Gleichungen" },
 ];
 
 export const Sidebar = () => {
